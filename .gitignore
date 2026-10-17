@@ -1,0 +1,15 @@
+# Temporary climate downloads and run-in-progress files
+parts/
+fetch_big.log
+/fetch_quebec_climate.py
+__pycache__/
+
+# Files over GitHub's 100 MB limit: only their compressed .gz / .gz.partNN copies are committed
+1_climate/measurements/quebec_climate_daily.csv
+1_climate/measurements/quebec_climate_hourly.csv
+2_forest/forest_cover_change_hansen/grid_1km/quebec_forest_grid_0.01deg.csv
+2_forest/forest_cover_change_hansen/loss_pixels_30m/quebec_forest_loss_pixels.csv
+2_forest/insect_defoliation_livree/areas_satellite_2024_2025/Livree_des_forets_defoliation_2024.csv
+
+# Original Hansen tiles: download from the source (see 2_forest/README.md)
+2_forest/forest_cover_change_hansen/raw_geotiff_tiles/

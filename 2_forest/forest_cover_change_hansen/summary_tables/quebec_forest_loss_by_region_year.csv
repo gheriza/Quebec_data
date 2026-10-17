@@ -1,0 +1,476 @@
+region_code,region_name,year,loss_ha_forest,loss_ha_any_canopy
+01,Bas-Saint-Laurent,2001,8401.4,8414.56
+01,Bas-Saint-Laurent,2002,15970.38,15990.12
+01,Bas-Saint-Laurent,2003,7154.53,7157.51
+01,Bas-Saint-Laurent,2004,14020.97,14030.75
+01,Bas-Saint-Laurent,2005,15922.22,15941.93
+01,Bas-Saint-Laurent,2006,12325.64,12331.05
+01,Bas-Saint-Laurent,2007,8765.09,8775.33
+01,Bas-Saint-Laurent,2008,8493.64,8502.0
+01,Bas-Saint-Laurent,2009,7099.4,7104.72
+01,Bas-Saint-Laurent,2010,7278.75,7284.46
+01,Bas-Saint-Laurent,2011,8440.9,8446.56
+01,Bas-Saint-Laurent,2012,9548.76,9698.91
+01,Bas-Saint-Laurent,2013,15548.99,15818.29
+01,Bas-Saint-Laurent,2014,9763.8,10097.91
+01,Bas-Saint-Laurent,2015,12122.17,12348.99
+01,Bas-Saint-Laurent,2016,17783.99,18316.52
+01,Bas-Saint-Laurent,2017,17810.34,18316.71
+01,Bas-Saint-Laurent,2018,16710.75,17211.02
+01,Bas-Saint-Laurent,2019,17948.01,18503.24
+01,Bas-Saint-Laurent,2020,19697.7,20710.21
+01,Bas-Saint-Laurent,2021,19655.23,20400.56
+01,Bas-Saint-Laurent,2022,17425.88,18217.49
+01,Bas-Saint-Laurent,2023,17919.72,18459.41
+01,Bas-Saint-Laurent,2024,19938.51,20669.04
+01,Bas-Saint-Laurent,2025,23370.41,24825.56
+02,Saguenay–Lac-Saint-Jean,2001,50864.71,51512.87
+02,Saguenay–Lac-Saint-Jean,2002,86901.41,94879.87
+02,Saguenay–Lac-Saint-Jean,2003,63201.01,65280.34
+02,Saguenay–Lac-Saint-Jean,2004,57817.85,58780.18
+02,Saguenay–Lac-Saint-Jean,2005,200141.3,209181.57
+02,Saguenay–Lac-Saint-Jean,2006,40206.67,40908.68
+02,Saguenay–Lac-Saint-Jean,2007,123805.74,131419.22
+02,Saguenay–Lac-Saint-Jean,2008,60703.6,62735.85
+02,Saguenay–Lac-Saint-Jean,2009,53568.31,56458.88
+02,Saguenay–Lac-Saint-Jean,2010,104470.59,106948.62
+02,Saguenay–Lac-Saint-Jean,2011,79399.42,82368.3
+02,Saguenay–Lac-Saint-Jean,2012,47700.35,48908.45
+02,Saguenay–Lac-Saint-Jean,2013,68911.4,74803.91
+02,Saguenay–Lac-Saint-Jean,2014,60893.0,63542.3
+02,Saguenay–Lac-Saint-Jean,2015,59004.36,59754.71
+02,Saguenay–Lac-Saint-Jean,2016,71806.56,72729.75
+02,Saguenay–Lac-Saint-Jean,2017,64462.69,65458.31
+02,Saguenay–Lac-Saint-Jean,2018,58878.3,61254.59
+02,Saguenay–Lac-Saint-Jean,2019,64358.57,65075.59
+02,Saguenay–Lac-Saint-Jean,2020,102863.64,105108.08
+02,Saguenay–Lac-Saint-Jean,2021,66349.55,67641.49
+02,Saguenay–Lac-Saint-Jean,2022,58598.4,59197.78
+02,Saguenay–Lac-Saint-Jean,2023,138848.79,155866.06
+02,Saguenay–Lac-Saint-Jean,2024,49328.29,51376.73
+02,Saguenay–Lac-Saint-Jean,2025,71792.32,73265.85
+03,Capitale-Nationale,2001,9547.76,9597.04
+03,Capitale-Nationale,2002,7016.34,7032.78
+03,Capitale-Nationale,2003,3665.68,3668.81
+03,Capitale-Nationale,2004,11238.36,11260.32
+03,Capitale-Nationale,2005,10346.55,10364.35
+03,Capitale-Nationale,2006,9441.71,9459.23
+03,Capitale-Nationale,2007,10845.83,10868.69
+03,Capitale-Nationale,2008,5551.07,5557.45
+03,Capitale-Nationale,2009,10790.41,10815.18
+03,Capitale-Nationale,2010,7355.65,7362.4
+03,Capitale-Nationale,2011,6222.4,6225.73
+03,Capitale-Nationale,2012,10208.21,10252.1
+03,Capitale-Nationale,2013,10857.22,10962.84
+03,Capitale-Nationale,2014,9381.79,9490.41
+03,Capitale-Nationale,2015,9726.51,9797.09
+03,Capitale-Nationale,2016,12635.57,12836.45
+03,Capitale-Nationale,2017,11710.22,11904.88
+03,Capitale-Nationale,2018,11308.6,11606.82
+03,Capitale-Nationale,2019,10041.74,10209.7
+03,Capitale-Nationale,2020,8666.73,8822.53
+03,Capitale-Nationale,2021,8160.55,8247.96
+03,Capitale-Nationale,2022,6979.42,7066.76
+03,Capitale-Nationale,2023,6953.2,7059.13
+03,Capitale-Nationale,2024,8370.56,8519.36
+03,Capitale-Nationale,2025,8220.31,8358.87
+04,Mauricie,2001,25502.81,25656.47
+04,Mauricie,2002,19818.77,19943.06
+04,Mauricie,2003,24811.73,24936.07
+04,Mauricie,2004,23747.32,23893.21
+04,Mauricie,2005,32976.34,33295.71
+04,Mauricie,2006,18418.71,18490.27
+04,Mauricie,2007,22926.1,23064.55
+04,Mauricie,2008,17669.04,17749.0
+04,Mauricie,2009,14777.7,14828.77
+04,Mauricie,2010,43318.18,43581.52
+04,Mauricie,2011,13323.96,13342.16
+04,Mauricie,2012,23164.84,23343.1
+04,Mauricie,2013,20315.4,20467.3
+04,Mauricie,2014,21819.87,22215.92
+04,Mauricie,2015,22688.37,22896.13
+04,Mauricie,2016,28918.49,29318.83
+04,Mauricie,2017,32020.27,32406.36
+04,Mauricie,2018,27892.13,28524.5
+04,Mauricie,2019,31352.91,31878.64
+04,Mauricie,2020,27949.62,28766.28
+04,Mauricie,2021,28968.26,29447.9
+04,Mauricie,2022,30894.71,31457.03
+04,Mauricie,2023,46886.24,48609.81
+04,Mauricie,2024,26783.83,27095.64
+04,Mauricie,2025,20344.23,20775.9
+05,Estrie,2001,2559.63,2564.56
+05,Estrie,2002,2204.01,2207.86
+05,Estrie,2003,1450.48,1451.07
+05,Estrie,2004,2136.42,2146.17
+05,Estrie,2005,3036.08,3040.37
+05,Estrie,2006,3095.48,3097.33
+05,Estrie,2007,2105.18,2106.81
+05,Estrie,2008,2132.44,2134.07
+05,Estrie,2009,2599.24,2601.69
+05,Estrie,2010,2390.49,2392.29
+05,Estrie,2011,1152.46,1156.82
+05,Estrie,2012,2044.32,2080.72
+05,Estrie,2013,2059.69,2149.88
+05,Estrie,2014,1736.16,1820.51
+05,Estrie,2015,1767.66,1834.95
+05,Estrie,2016,2851.82,3018.54
+05,Estrie,2017,3305.52,3395.87
+05,Estrie,2018,4064.65,4181.53
+05,Estrie,2019,3482.54,3738.14
+05,Estrie,2020,4653.61,4907.49
+05,Estrie,2021,4119.22,4254.26
+05,Estrie,2022,4287.36,4412.47
+05,Estrie,2023,3759.64,3907.78
+05,Estrie,2024,3140.78,3253.28
+05,Estrie,2025,3241.22,3387.27
+06,Montréal,2001,26.82,30.89
+06,Montréal,2002,13.6,14.95
+06,Montréal,2003,11.86,12.73
+06,Montréal,2004,11.38,12.03
+06,Montréal,2005,4.22,7.14
+06,Montréal,2006,1.84,2.06
+06,Montréal,2007,9.54,10.13
+06,Montréal,2008,1.57,1.89
+06,Montréal,2009,2.27,2.49
+06,Montréal,2010,2.38,2.76
+06,Montréal,2011,2.22,2.43
+06,Montréal,2012,10.86,11.4
+06,Montréal,2013,2.71,3.63
+06,Montréal,2014,1.41,3.9
+06,Montréal,2015,4.01,4.66
+06,Montréal,2016,2.28,2.76
+06,Montréal,2017,2.11,3.3
+06,Montréal,2018,7.69,13.7
+06,Montréal,2019,14.89,20.14
+06,Montréal,2020,6.17,12.01
+06,Montréal,2021,3.2,4.88
+06,Montréal,2022,10.77,17.38
+06,Montréal,2023,4.28,8.39
+06,Montréal,2024,3.09,6.06
+06,Montréal,2025,4.39,7.31
+07,Outaouais,2001,8865.53,8875.95
+07,Outaouais,2002,9192.41,9205.87
+07,Outaouais,2003,6509.32,6518.76
+07,Outaouais,2004,12362.33,12379.93
+07,Outaouais,2005,11915.6,11932.09
+07,Outaouais,2006,9675.12,9684.31
+07,Outaouais,2007,10635.78,10650.13
+07,Outaouais,2008,8236.31,8242.84
+07,Outaouais,2009,7098.37,7107.47
+07,Outaouais,2010,5974.08,5982.05
+07,Outaouais,2011,5853.6,5860.89
+07,Outaouais,2012,7154.82,7219.81
+07,Outaouais,2013,6584.66,6663.43
+07,Outaouais,2014,7567.88,7755.61
+07,Outaouais,2015,6879.75,6984.83
+07,Outaouais,2016,9636.54,9784.55
+07,Outaouais,2017,10074.43,10190.65
+07,Outaouais,2018,9323.73,9451.48
+07,Outaouais,2019,9959.99,10131.89
+07,Outaouais,2020,8347.42,8502.78
+07,Outaouais,2021,10826.97,10991.49
+07,Outaouais,2022,8061.48,8191.06
+07,Outaouais,2023,7679.2,7797.57
+07,Outaouais,2024,6795.98,6893.54
+07,Outaouais,2025,4079.84,4240.79
+08,Abitibi-Témiscamingue,2001,25639.24,25829.59
+08,Abitibi-Témiscamingue,2002,28890.28,29083.75
+08,Abitibi-Témiscamingue,2003,14968.22,15011.62
+08,Abitibi-Témiscamingue,2004,38785.54,38988.18
+08,Abitibi-Témiscamingue,2005,41781.77,42068.96
+08,Abitibi-Témiscamingue,2006,27810.33,27936.63
+08,Abitibi-Témiscamingue,2007,61552.12,61951.93
+08,Abitibi-Témiscamingue,2008,20560.39,20653.58
+08,Abitibi-Témiscamingue,2009,13301.28,13382.45
+08,Abitibi-Témiscamingue,2010,19444.26,19528.05
+08,Abitibi-Témiscamingue,2011,11294.15,11372.99
+08,Abitibi-Témiscamingue,2012,35661.31,36158.5
+08,Abitibi-Témiscamingue,2013,27032.5,27294.18
+08,Abitibi-Témiscamingue,2014,23122.4,23484.49
+08,Abitibi-Témiscamingue,2015,31391.24,31812.7
+08,Abitibi-Témiscamingue,2016,34727.46,35143.2
+08,Abitibi-Témiscamingue,2017,34585.47,34934.34
+08,Abitibi-Témiscamingue,2018,33128.02,33565.9
+08,Abitibi-Témiscamingue,2019,32594.96,33187.34
+08,Abitibi-Témiscamingue,2020,30101.16,30529.48
+08,Abitibi-Témiscamingue,2021,33376.23,33996.46
+08,Abitibi-Témiscamingue,2022,32573.83,33130.25
+08,Abitibi-Témiscamingue,2023,167003.43,195952.12
+08,Abitibi-Témiscamingue,2024,27333.14,28646.12
+08,Abitibi-Témiscamingue,2025,18778.78,19258.72
+09,Côte-Nord,2001,37207.48,41877.87
+09,Côte-Nord,2002,103764.19,122407.73
+09,Côte-Nord,2003,26093.03,30297.59
+09,Côte-Nord,2004,69263.79,72111.2
+09,Côte-Nord,2005,109710.52,119605.94
+09,Côte-Nord,2006,85673.29,96557.85
+09,Côte-Nord,2007,75995.66,86755.87
+09,Côte-Nord,2008,50309.78,62634.63
+09,Côte-Nord,2009,27439.8,31636.79
+09,Côte-Nord,2010,42532.35,48032.7
+09,Côte-Nord,2011,38904.43,43486.0
+09,Côte-Nord,2012,48858.28,54162.11
+09,Côte-Nord,2013,369191.28,429919.68
+09,Côte-Nord,2014,137575.51,162732.2
+09,Côte-Nord,2015,22542.71,23569.55
+09,Côte-Nord,2016,31829.21,33914.73
+09,Côte-Nord,2017,44653.23,46875.14
+09,Côte-Nord,2018,32689.73,35494.04
+09,Côte-Nord,2019,23379.18,24774.43
+09,Côte-Nord,2020,29150.89,30536.0
+09,Côte-Nord,2021,18825.37,20498.65
+09,Côte-Nord,2022,17771.84,19973.74
+09,Côte-Nord,2023,88100.2,94657.15
+09,Côte-Nord,2024,113761.31,155319.96
+09,Côte-Nord,2025,165671.57,167252.6
+09,Côte-Nord (Tracé de 1927),2001,172.6,256.66
+09,Côte-Nord (Tracé de 1927),2002,61.82,69.94
+09,Côte-Nord (Tracé de 1927),2003,128.32,158.97
+09,Côte-Nord (Tracé de 1927),2004,4264.6,5037.46
+09,Côte-Nord (Tracé de 1927),2005,669.89,1177.7
+09,Côte-Nord (Tracé de 1927),2006,295.27,498.64
+09,Côte-Nord (Tracé de 1927),2007,2867.39,4647.19
+09,Côte-Nord (Tracé de 1927),2008,950.61,1444.27
+09,Côte-Nord (Tracé de 1927),2009,399.56,500.8
+09,Côte-Nord (Tracé de 1927),2010,373.89,826.65
+09,Côte-Nord (Tracé de 1927),2011,303.69,470.62
+09,Côte-Nord (Tracé de 1927),2012,3967.95,4618.15
+09,Côte-Nord (Tracé de 1927),2013,3656.72,5105.16
+09,Côte-Nord (Tracé de 1927),2014,4273.99,7770.69
+09,Côte-Nord (Tracé de 1927),2015,844.82,1300.13
+09,Côte-Nord (Tracé de 1927),2016,1482.5,1757.82
+09,Côte-Nord (Tracé de 1927),2017,61.51,70.47
+09,Côte-Nord (Tracé de 1927),2018,8.2,8.81
+09,Côte-Nord (Tracé de 1927),2019,340.8,588.15
+09,Côte-Nord (Tracé de 1927),2020,170.61,239.6
+09,Côte-Nord (Tracé de 1927),2021,75.17,139.44
+09,Côte-Nord (Tracé de 1927),2022,30.28,30.43
+09,Côte-Nord (Tracé de 1927),2023,1737.94,3161.98
+09,Côte-Nord (Tracé de 1927),2024,1024.12,2632.99
+09,Côte-Nord (Tracé de 1927),2025,18.72,55.6
+10,Nord-du-Québec,2001,48060.1,51389.12
+10,Nord-du-Québec,2002,481113.08,523147.44
+10,Nord-du-Québec,2003,142198.29,153662.7
+10,Nord-du-Québec,2004,97665.18,100922.13
+10,Nord-du-Québec,2005,302446.06,318061.99
+10,Nord-du-Québec,2006,123574.01,133176.14
+10,Nord-du-Québec,2007,67545.84,72422.8
+10,Nord-du-Québec,2008,70620.58,79974.21
+10,Nord-du-Québec,2009,109196.08,113922.14
+10,Nord-du-Québec,2010,121812.18,125689.01
+10,Nord-du-Québec,2011,62701.99,69295.99
+10,Nord-du-Québec,2012,65896.99,72565.68
+10,Nord-du-Québec,2013,560315.69,644766.17
+10,Nord-du-Québec,2014,89815.65,116140.13
+10,Nord-du-Québec,2015,32313.73,33063.07
+10,Nord-du-Québec,2016,45143.29,51604.57
+10,Nord-du-Québec,2017,49911.5,59867.98
+10,Nord-du-Québec,2018,67261.97,78911.69
+10,Nord-du-Québec,2019,34567.39,37483.42
+10,Nord-du-Québec,2020,27518.86,30310.88
+10,Nord-du-Québec,2021,53052.31,64198.18
+10,Nord-du-Québec,2022,46471.53,58647.33
+10,Nord-du-Québec,2023,1969569.5,2762140.38
+10,Nord-du-Québec,2024,142083.94,219521.3
+10,Nord-du-Québec,2025,22951.62,26017.0
+11,Gaspésie–Îles-de-la-Madeleine,2001,10871.76,10964.41
+11,Gaspésie–Îles-de-la-Madeleine,2002,13362.47,13437.86
+11,Gaspésie–Îles-de-la-Madeleine,2003,5582.71,5589.65
+11,Gaspésie–Îles-de-la-Madeleine,2004,18623.7,18651.09
+11,Gaspésie–Îles-de-la-Madeleine,2005,16250.23,16351.43
+11,Gaspésie–Îles-de-la-Madeleine,2006,9230.76,9237.38
+11,Gaspésie–Îles-de-la-Madeleine,2007,13368.56,13378.49
+11,Gaspésie–Îles-de-la-Madeleine,2008,6766.23,6772.7
+11,Gaspésie–Îles-de-la-Madeleine,2009,7494.04,7562.59
+11,Gaspésie–Îles-de-la-Madeleine,2010,7279.3,7291.37
+11,Gaspésie–Îles-de-la-Madeleine,2011,4857.51,4868.83
+11,Gaspésie–Îles-de-la-Madeleine,2012,8569.71,8635.11
+11,Gaspésie–Îles-de-la-Madeleine,2013,8478.38,8618.85
+11,Gaspésie–Îles-de-la-Madeleine,2014,9416.53,9709.5
+11,Gaspésie–Îles-de-la-Madeleine,2015,10203.97,10704.12
+11,Gaspésie–Îles-de-la-Madeleine,2016,13592.29,14118.87
+11,Gaspésie–Îles-de-la-Madeleine,2017,13781.43,14176.92
+11,Gaspésie–Îles-de-la-Madeleine,2018,13077.02,13366.31
+11,Gaspésie–Îles-de-la-Madeleine,2019,11891.47,12052.31
+11,Gaspésie–Îles-de-la-Madeleine,2020,13941.02,14222.59
+11,Gaspésie–Îles-de-la-Madeleine,2021,14134.39,14462.6
+11,Gaspésie–Îles-de-la-Madeleine,2022,12680.36,12946.86
+11,Gaspésie–Îles-de-la-Madeleine,2023,11393.71,11568.72
+11,Gaspésie–Îles-de-la-Madeleine,2024,15606.3,15927.52
+11,Gaspésie–Îles-de-la-Madeleine,2025,22451.04,23872.69
+12,Chaudière-Appalaches,2001,4950.2,4968.49
+12,Chaudière-Appalaches,2002,5282.38,5286.63
+12,Chaudière-Appalaches,2003,2239.76,2241.14
+12,Chaudière-Appalaches,2004,5130.46,5138.95
+12,Chaudière-Appalaches,2005,6326.71,6336.34
+12,Chaudière-Appalaches,2006,4837.88,4840.54
+12,Chaudière-Appalaches,2007,4076.94,4081.62
+12,Chaudière-Appalaches,2008,4211.33,4213.77
+12,Chaudière-Appalaches,2009,4094.14,4100.03
+12,Chaudière-Appalaches,2010,3354.57,3358.08
+12,Chaudière-Appalaches,2011,3157.65,3158.97
+12,Chaudière-Appalaches,2012,4404.22,4460.59
+12,Chaudière-Appalaches,2013,3654.75,3719.66
+12,Chaudière-Appalaches,2014,3413.52,3504.58
+12,Chaudière-Appalaches,2015,4448.16,4499.52
+12,Chaudière-Appalaches,2016,6220.78,6363.05
+12,Chaudière-Appalaches,2017,8089.79,8211.53
+12,Chaudière-Appalaches,2018,9008.57,9153.47
+12,Chaudière-Appalaches,2019,8227.51,8499.39
+12,Chaudière-Appalaches,2020,10072.65,10642.44
+12,Chaudière-Appalaches,2021,10828.98,11020.24
+12,Chaudière-Appalaches,2022,10165.39,10346.47
+12,Chaudière-Appalaches,2023,8739.3,8908.85
+12,Chaudière-Appalaches,2024,8708.11,8939.05
+12,Chaudière-Appalaches,2025,9097.15,9407.73
+13,Laval,2001,25.69,28.34
+13,Laval,2002,25.48,26.19
+13,Laval,2003,21.85,22.07
+13,Laval,2004,25.43,26.51
+13,Laval,2005,36.27,37.73
+13,Laval,2006,9.41,10.05
+13,Laval,2007,12.28,12.87
+13,Laval,2008,13.47,13.63
+13,Laval,2009,15.69,16.07
+13,Laval,2010,22.86,23.4
+13,Laval,2011,12.6,12.98
+13,Laval,2012,8.33,10.22
+13,Laval,2013,0.76,1.51
+13,Laval,2014,8.33,10.32
+13,Laval,2015,6.06,6.38
+13,Laval,2016,2.7,3.03
+13,Laval,2017,4.0,4.71
+13,Laval,2018,19.32,25.92
+13,Laval,2019,9.57,10.76
+13,Laval,2020,11.46,15.08
+13,Laval,2021,21.68,34.45
+13,Laval,2022,30.06,48.33
+13,Laval,2023,6.55,7.73
+13,Laval,2024,5.67,10.75
+13,Laval,2025,5.14,7.68
+14,Lanaudière,2001,5922.79,5934.24
+14,Lanaudière,2002,7398.34,7415.92
+14,Lanaudière,2003,5727.96,5737.14
+14,Lanaudière,2004,8496.14,8519.59
+14,Lanaudière,2005,8137.27,8161.54
+14,Lanaudière,2006,4206.1,4213.22
+14,Lanaudière,2007,5435.25,5454.18
+14,Lanaudière,2008,2180.72,2188.02
+14,Lanaudière,2009,2885.21,2891.47
+14,Lanaudière,2010,4274.43,4305.82
+14,Lanaudière,2011,1941.12,1948.04
+14,Lanaudière,2012,4816.71,4861.32
+14,Lanaudière,2013,3624.26,3668.58
+14,Lanaudière,2014,2802.91,2895.4
+14,Lanaudière,2015,2996.46,3047.21
+14,Lanaudière,2016,5165.78,5262.25
+14,Lanaudière,2017,5391.81,5483.95
+14,Lanaudière,2018,5035.48,5199.18
+14,Lanaudière,2019,6630.98,6724.72
+14,Lanaudière,2020,5164.18,5251.39
+14,Lanaudière,2021,7155.37,7289.21
+14,Lanaudière,2022,5257.34,5365.35
+14,Lanaudière,2023,5094.02,5186.28
+14,Lanaudière,2024,4931.03,5041.13
+14,Lanaudière,2025,5293.88,5433.28
+15,Laurentides,2001,6364.44,6382.32
+15,Laurentides,2002,5286.91,5301.45
+15,Laurentides,2003,3598.93,3603.32
+15,Laurentides,2004,6984.65,7012.8
+15,Laurentides,2005,7061.51,7086.55
+15,Laurentides,2006,3654.16,3661.95
+15,Laurentides,2007,6591.72,6623.65
+15,Laurentides,2008,3581.64,3588.97
+15,Laurentides,2009,5246.77,5261.85
+15,Laurentides,2010,2184.71,2194.27
+15,Laurentides,2011,2209.15,2213.85
+15,Laurentides,2012,6180.16,6218.27
+15,Laurentides,2013,4734.53,4795.71
+15,Laurentides,2014,4829.81,4988.97
+15,Laurentides,2015,5638.21,5705.9
+15,Laurentides,2016,6917.29,7042.11
+15,Laurentides,2017,9161.48,9315.86
+15,Laurentides,2018,11112.31,11333.12
+15,Laurentides,2019,7693.27,7874.36
+15,Laurentides,2020,6867.39,7067.92
+15,Laurentides,2021,8661.08,8924.45
+15,Laurentides,2022,8028.16,8180.83
+15,Laurentides,2023,6794.81,6908.14
+15,Laurentides,2024,6181.02,6275.99
+15,Laurentides,2025,6704.54,6969.41
+16,Montérégie,2001,360.11,367.76
+16,Montérégie,2002,407.68,409.85
+16,Montérégie,2003,322.51,325.06
+16,Montérégie,2004,537.97,558.21
+16,Montérégie,2005,782.82,787.92
+16,Montérégie,2006,308.08,312.74
+16,Montérégie,2007,208.45,210.89
+16,Montérégie,2008,196.63,198.91
+16,Montérégie,2009,234.66,237.43
+16,Montérégie,2010,333.12,337.03
+16,Montérégie,2011,296.19,312.15
+16,Montérégie,2012,322.12,357.48
+16,Montérégie,2013,113.9,165.93
+16,Montérégie,2014,212.84,274.0
+16,Montérégie,2015,134.1,151.64
+16,Montérégie,2016,300.29,380.77
+16,Montérégie,2017,277.06,320.48
+16,Montérégie,2018,432.11,554.44
+16,Montérégie,2019,338.91,400.6
+16,Montérégie,2020,373.66,432.5
+16,Montérégie,2021,376.29,469.44
+16,Montérégie,2022,329.03,401.21
+16,Montérégie,2023,204.38,258.49
+16,Montérégie,2024,159.33,252.03
+16,Montérégie,2025,163.54,315.5
+17,Centre-du-Québec,2001,997.11,1016.27
+17,Centre-du-Québec,2002,1087.24,1111.14
+17,Centre-du-Québec,2003,552.68,554.87
+17,Centre-du-Québec,2004,812.93,822.37
+17,Centre-du-Québec,2005,1382.08,1390.13
+17,Centre-du-Québec,2006,1037.45,1040.98
+17,Centre-du-Québec,2007,1149.13,1150.42
+17,Centre-du-Québec,2008,774.0,775.33
+17,Centre-du-Québec,2009,1520.81,1524.78
+17,Centre-du-Québec,2010,851.29,854.18
+17,Centre-du-Québec,2011,612.62,620.19
+17,Centre-du-Québec,2012,1003.36,1028.98
+17,Centre-du-Québec,2013,740.65,799.34
+17,Centre-du-Québec,2014,812.54,878.49
+17,Centre-du-Québec,2015,775.05,793.37
+17,Centre-du-Québec,2016,1254.39,1376.45
+17,Centre-du-Québec,2017,1569.26,1697.71
+17,Centre-du-Québec,2018,1496.45,1639.42
+17,Centre-du-Québec,2019,1145.63,1254.25
+17,Centre-du-Québec,2020,1656.05,2041.07
+17,Centre-du-Québec,2021,1871.49,2072.12
+17,Centre-du-Québec,2022,1698.18,1891.16
+17,Centre-du-Québec,2023,1450.86,1601.38
+17,Centre-du-Québec,2024,1100.23,1272.01
+17,Centre-du-Québec,2025,997.74,1188.6
+,QUÉBEC (total),2001,246340.19,255667.42
+,QUÉBEC (total),2002,787796.79,856972.42
+,QUÉBEC (total),2003,308238.86,326229.42
+,QUÉBEC (total),2004,371925.02,380291.08
+,QUÉBEC (total),2005,768927.45,804829.38
+,QUÉBEC (total),2006,353801.9,375459.05
+,QUÉBEC (total),2007,417896.6,443584.76
+,QUÉBEC (total),2008,262953.03,287381.11
+,QUÉBEC (total),2009,267763.75,279955.6
+,QUÉBEC (total),2010,373253.1,385994.67
+,QUÉBEC (total),2011,240686.07,255163.52
+,QUÉBEC (total),2012,279521.3,294590.91
+,QUÉBEC (total),2013,1105823.47,1259724.06
+,QUÉBEC (total),2014,387447.92,447315.34
+,QUÉBEC (total),2015,223487.33,228274.94
+,QUÉBEC (total),2016,290271.22,302974.25
+,QUÉBEC (total),2017,306872.14,322635.16
+,QUÉBEC (total),2018,301455.04,321495.95
+,QUÉBEC (total),2019,263978.34,272407.05
+,QUÉBEC (total),2020,297212.85,308118.32
+,QUÉBEC (total),2021,286461.35,304093.78
+,QUÉBEC (total),2022,261294.03,279521.93
+,QUÉBEC (total),2023,2482145.76,3332059.39
+,QUÉBEC (total),2024,435255.24,561652.5
+,QUÉBEC (total),2025,383186.43,394640.35
