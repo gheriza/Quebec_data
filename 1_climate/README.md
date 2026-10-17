@@ -11,7 +11,7 @@ Source: Climate Data Extraction Tool, changements-climatiques.canada.ca
 | `stations/quebec_climate_stations.csv` | 1,051 | 0.3 MB | One station: name, position, elevation, years of data |
 | `measurements/quebec_climate_monthly.csv` | 298,949 | 59 MB | One station × one month |
 | `measurements/quebec_climate_daily.csv.gz.part00`–`part03` **(large, split)** | 23,229,497 | 3.1 GB unzipped | One station × one day |
-| `measurements/quebec_climate_hourly.csv.gz.part…` **(large, split)** | ~40,470,000 | several GB unzipped | One station × one hour *(added when the download finishes)* |
+| `quebec_climate_hourly.csv.gz.part00`–`part10` **(large, split)**, in [gheriza/Quebec_data_1](https://github.com/gheriza/Quebec_data_1/tree/main/climate_hourly) | 40,470,113 | 9.5 GB unzipped | One station × one hour |
 | `normals/quebec_climate_normals.csv` | 81,712 | 18 MB | One station × one variable × one month, averaged over 1981–2010 |
 
 ## How the files connect
