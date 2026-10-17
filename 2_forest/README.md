@@ -58,7 +58,7 @@ Science 342. Data version GFC-2025-v1.13, clipped to Quebec. License: CC-BY 4.0.
 | `grid_1km/quebec_forest_grid_0.01deg.csv.gz` **(large, compressed)** | 2,084,703 | 321 MB unzipped | One 0.01° square (~1.1 km × 0.7 km) |
 | `loss_pixels_30m/quebec_forest_loss_pixels.csv.gz.part00`–`part10` **(large, split)** | 271,438,702 | 8.1 GB unzipped | One 30 m pixel where trees were lost |
 | `boundaries/quebec_regions_administratives.geojson` | 18 | 1.4 MB | Region outlines used to clip and group the data |
-| `raw_geotiff_tiles/` *(not in the repository)* | 35 files | 2.7 GB | Original image tiles: download them as explained below |
+| `raw_geotiff_tiles/` *(in [gheriza/Quebec_data_1](https://github.com/gheriza/Quebec_data_1))* | 35 files | 2.7 GB | Original image tiles (for QGIS/ArcGIS) |
 
 **Definitions:**
 - **Forest** = tree canopy cover above 30% in the year 2000.
@@ -74,9 +74,9 @@ Science 342. Data version GFC-2025-v1.13, clipped to Quebec. License: CC-BY 4.0.
 - `mean_treecover2000_pct`: average canopy cover in 2000.
 - In the pixel file, `treecover2000_pct` (0–100) lets you apply a different forest threshold yourself.
 
-**Original image tiles:** the 35 GeoTIFFs used here (layers `datamask`, `treecover2000`, `lossyear`, `gain`;
+**Original image tiles:** stored in [gheriza/Quebec_data_1](https://github.com/gheriza/Quebec_data_1). The 35 GeoTIFFs used here (layers `datamask`, `treecover2000`, `lossyear`, `gain`;
 tiles `50N_080W`, `50N_070W`, `50N_060W`, `60N_080W`, `60N_070W`, `60N_060W`, `70N_080W`, `70N_070W`, `70N_060W`)
-download freely from
+can also be downloaded from the source:
 `https://storage.googleapis.com/earthenginepartners-hansen/GFC-2025-v1.13/Hansen_GFC-2025-v1.13_<layer>_<tile>.tif`
 (there is no `lossyear` tile for `70N_060W`, which has no forest loss).
 

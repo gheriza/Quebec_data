@@ -67,7 +67,7 @@ GitHub doesn't accept files over 100 MB, so the biggest CSVs are stored compress
 | `scripts/` | The Python scripts used to download and convert the data, so it can be re-run or updated |
 | `logs/` | Run logs |
 
-The original Hansen image tiles (2.7 GB) are not in the repository; `2_forest/README.md` explains where to download them.
+The original Hansen image tiles (2.7 GB) are in the companion repository **[gheriza/Quebec_data_1](https://github.com/gheriza/Quebec_data_1)**.
 
 ## Data not included
 
