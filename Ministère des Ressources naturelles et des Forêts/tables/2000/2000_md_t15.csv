@@ -1,0 +1,55 @@
+"# Tableau 15 – Pourcentages de cônes et de graines endommagés selon les sources de semences améliorées, en 2000"
+"# Source: Insectes, maladies et feux dans les forêts du Québec 2000 (Insectes_maladies_feux_2000.md, line 820)"
+,,,Déte,ction,Éval,uation
+,Unités,,,%,,%
+"Sources de
+semences","de
+gestion",Ravageurs,"% de
+cônes
+affectés","moyen
+de
+graines
+affectées","% de
+cônes
+affectés","moyen
+de
+graines
+affectées"
+"Robidoux
+EPB V1 ROB1",111,"Mouche granivore de
+l'épinette",23,36,,
+,,Rouille,5,-,,
+Falardeau,23,Mouchegranivore de l'épinette,30,38,,
+EPB V1 FAL1,,Rouille,17,-,,
+Station,31,Mouchegranivore de l'épinette,76,55,,
+"forestière de
+Duchesnay
+EPB V1 SFD1",,Rouille,54,-,,
+"Cap
+Tourmente
+PIB L1 CTO1",32,Scolyte des cônes du pin blanc,18,90,,
+Lac des,33,Mouchegranivore de l'épinette,81,56,89,63
+"Marais
+EPB V1 LDM1",,Rouille,27,-,-,-
+Aubin de,34,Mouchegranivore de l'épinette,51,41,44,40
+"l'Isle
+EPB V1 AUB1",,"Petite arpenteuse des cônes de
+l'épinette",0,0,3,10
+,,Rouille,66,-,-,-
+Aubin de,34,Mouchegranivore de l'épinette,52,40,71,51
+"l'Isle
+EPB V1 AUB2",,Rouille,66,-,-,-
+Aubin de,34,Mouchegranivore de l'épinette,64,39,71,45
+"l'Isle
+EPB V1 AUB3",,"Petite arpenteuse des cônes de
+l'épinette",1,0,5,5
+,,Rouille,61,-,-,-
+Wendover,41,Mouchegranivore de l'épinette,43,46,,
+EPB V1 WEV2,,Tordeuse verte des cônes,2,5,,
+,,Rouille,5,-,,
+Cleveland,51,Mouchegranivore de l'épinette,22,56,31,42
+EPB V1 CLE1,,"Tordeuse des graines de
+l'épinette",6,5,1,30
+,,Rouille,5,-,-,-
+"Fontbrune
+EPB V1 FON1",64,Mouche granivore de l'épinette,71,38,56,45

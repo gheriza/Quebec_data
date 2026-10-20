@@ -1,0 +1,24 @@
+# Tableau 2. Nombre de plantations visitées selon les essences dans chaque domaine bioclimatique en 2009
+"# Source: Insectes, maladies et feux dans les forêts du Québec 2009 (Insectes_maladies_feux_2009.md, line 540)"
+,,,,,,,Es,sence,,,,,,,
+"Domaine
+bioclimatique","Épinette
+blanche","Épinette
+noire","Épinette
+de
+Norvège","Épinette
+rouge","Pin
+blanc","Pin
+gris","Pin
+rouge","Pin
+sylvestre","Mélèze
+hybride","Mélèze
+laricin","Mélèze
+européen","Peuplier
+hybride","Érable
+à sucre","Chêne
+rouge",Total
+Érablière,29,15,11,6,18,5,34,3,3,12,3,16,1,2,158
+Sapinière,31,38,7,3,12,49,3,0,5,11,0,13,0,1,173
+Pessière,6,57,0,0,0,37,0,0,0,0,0,1,0,0,101
+Total,66,110,18,9,30,91,37,3,8,23,3,30,1,3,432

@@ -1,0 +1,9 @@
+# Tableau 9 - Pourcentage des plantations infectées par la rouille vésiculeuse du pin blanc en 2008
+"# Source: Insectes, maladies et feux dans les forêts du Québec 2008 (Insectes_maladies_feux_2008.md, line 902)"
+Zones,Nombre de,Nombre de,,Nombre de plan,tations infectées,,Pourcentage
+d’échantillonnage,plantations,plantations,,par niveau,de dommage,,des plantations
+,visitées,infectées,Trace,Léger,Modéré,Grave,infectées
+Érablière,18,10,,3,5,2,56
+Sapinière,11,9,3,1,5,,82
+Total,29,19,,,,,66
+Total(%),,,3(16),4(21),10(53),2(10),

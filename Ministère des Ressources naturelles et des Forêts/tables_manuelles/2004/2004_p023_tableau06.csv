@@ -1,0 +1,20 @@
+# Tableau 6. Intensité des dommages causés par le charançon du pin blanc dans les plantations d'épinettes de Norvège en 2004
+# Source: Insectes, maladies et feux dans les forêts québécoises en 2004, page 23 (image du tableau transcrite manuellement; totaux des nombres atteints vérifiés)
+# Le rapport n'indique pas le nombre de plantations visitées pour les régions à 0 % (02, 08, 09, 10, 17) : cellules laissées vides; total publié = 48.
+No région,Région administrative,Présence (%),Présence (nb plantations),Trace (%),Trace (nb),Léger (%),Léger (nb),Modéré (%),Modéré (nb),Grave (%),Grave (nb),Plantations atteintes (%),Plantations visitées (nb)
+01,Bas-Saint-Laurent,17,1,50,3,0,0,33,2,0,0,55,11
+02,Saguenay–Lac-Saint-Jean,0,0,0,0,0,0,0,0,0,0,0,
+03,Capitale-Nationale,0,0,100,2,0,0,0,0,0,0,100,2
+04,Mauricie,0,0,50,2,50,2,0,0,0,0,80,5
+05,Estrie,0,0,0,0,33,1,33,1,33,1,75,4
+07,Outaouais,100,1,0,0,0,0,0,0,0,0,100,1
+08,Abitibi-Témiscamingue,0,0,0,0,0,0,0,0,0,0,0,
+09,Côte-Nord,0,0,0,0,0,0,0,0,0,0,0,
+10,Nord-du-Québec,0,0,0,0,0,0,0,0,0,0,0,
+11,Gaspésie–Îles-de-la-Madeleine,100,1,0,0,0,0,0,0,0,0,11,9
+12,Chaudière-Appalaches,0,0,20,1,80,4,0,0,0,0,71,7
+14,Lanaudière,0,0,100,1,0,0,0,0,0,0,50,2
+15,Laurentides,0,0,0,0,100,1,0,0,0,0,50,2
+16,Montérégie,0,0,33,1,33,1,33,1,0,0,100,3
+17,Centre-du-Québec,0,0,0,0,0,0,0,0,0,0,0,
+,Total,11,3,37,10,33,9,15,4,4,1,56,48

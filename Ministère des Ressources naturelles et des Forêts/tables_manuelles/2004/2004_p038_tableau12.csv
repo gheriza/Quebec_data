@@ -1,0 +1,69 @@
+# Tableau 12. Pourcentage de cônes et de fruits affectés et pourcentage de graines endommagées selon les sources de semences améliorées, en 2004
+# Source: Insectes, maladies et feux dans les forêts québécoises en 2004, page 38 (image du tableau transcrite manuellement)
+# Épinettes et pins : % de cônes affectés (% moyen de graines affectées). Feuillus : % de grappes affectées (% d'akènes affectés). Source traitée = oui : données des zones témoins. Cases vides du rapport omises.
+Groupe,Source de semences,Code,Source traitée,Unité de gestion,Ravageur,% cônes (ou grappes) affectés,% moyen de graines (ou akènes) affectées
+Épinettes,Robidoux,EPB-V1-ROB-1,oui,111,Mouche granivore de l'épinette,0,
+Épinettes,Robidoux,EPB-V1-ROB-1,oui,111,Tordeuse des graines de l'épinette,0,
+Épinettes,Robidoux,EPB-V1-ROB-1,oui,111,Rouille,29,
+Épinettes,Romieu,EPB-V1-ROM-1,oui,112,Mouche granivore de l'épinette,5,25
+Épinettes,Romieu,EPB-V1-ROM-1,oui,112,Tordeuse des graines de l'épinette,0,
+Épinettes,Romieu,EPB-V1-ROM-1,oui,112,Rouille,12,
+Épinettes,Estcourt,EPB-V1-EST-1,oui,11,Mouche granivore de l'épinette,13,26
+Épinettes,Estcourt,EPB-V1-EST-1,oui,11,Tordeuse des graines de l'épinette,0,
+Épinettes,Estcourt,EPB-V1-EST-1,oui,11,Rouille,34,
+Épinettes,Pépinière de Sainte-Luce,EPB-V2-PLU-1,oui,12,Mouche granivore de l'épinette,8,15
+Épinettes,Pépinière de Sainte-Luce,EPB-V2-PLU-1,oui,12,Tordeuse des graines de l'épinette,1,1
+Épinettes,Pépinière de Sainte-Luce,EPB-V2-PLU-1,oui,12,Rouille,44,
+Épinettes,Falardeau,EPB-V1-FAL-1,oui,21,Mouche granivore de l'épinette,0,
+Épinettes,Falardeau,EPB-V1-FAL-1,oui,21,Tordeuse des graines de l'épinette,0,
+Épinettes,Falardeau,EPB-V1-FAL-1,oui,21,Rouille,25,
+Épinettes,Lac des Marais,EPB-V1-LDM-1,non,33,Mouche granivore de l'épinette,87,70
+Épinettes,Lac des Marais,EPB-V1-LDM-1,non,33,Tordeuse des graines de l'épinette,20,17
+Épinettes,Lac des Marais,EPB-V1-LDM-1,non,33,Rouille,12,
+Épinettes,Aubin de l'Isle,EPB-V1-AUB-2,non,34,Mouche granivore de l'épinette,52,33
+Épinettes,Aubin de l'Isle,EPB-V1-AUB-2,non,34,Tordeuse des graines de l'épinette,4,5
+Épinettes,Aubin de l'Isle,EPB-V1-AUB-2,non,34,Rouille,45,
+Épinettes,Aubin de l'Isle,EPB-V1-AUB-3,non,34,Mouche granivore de l'épinette,54,35
+Épinettes,Aubin de l'Isle,EPB-V1-AUB-3,non,34,Tordeuse des graines de l'épinette,3,5
+Épinettes,Aubin de l'Isle,EPB-V1-AUB-3,non,34,Rouille,27,
+Épinettes,Wendover,EPB-V1-WEV-1,non,41,Mouche granivore de l'épinette,49,32
+Épinettes,Wendover,EPB-V1-WEV-1,non,41,Tordeuse des graines de l'épinette,61,14
+Épinettes,Wendover,EPB-V1-WEV-1,non,41,Rouille,1,
+Épinettes,Wendover,EPB-V1-WEV-2,non,41,Mouche granivore de l'épinette,54,33
+Épinettes,Wendover,EPB-V1-WEV-2,non,41,Tordeuse des graines de l'épinette,59,30
+Épinettes,Wendover,EPB-V1-WEV-2,non,41,Rouille,2,
+Épinettes,Cleveland,EPB-V1-CLE-1,non,51,Mouche granivore de l'épinette,37,27
+Épinettes,Cleveland,EPB-V1-CLE-1,non,51,Tordeuse des graines de l'épinette,31,3
+Épinettes,Cleveland,EPB-V1-CLE-1,non,51,Rouille,0,
+Épinettes,Pépinière de Berthierville,EPB-V2-PBE-1,oui,62,Mouche granivore de l'épinette,2,20
+Épinettes,Pépinière de Berthierville,EPB-V2-PBE-1,oui,62,Tordeuse des graines de l'épinette,3,5
+Épinettes,Pépinière de Berthierville,EPB-V2-PBE-1,oui,62,Rouille,1,
+Épinettes,Arboretum de Verchère,EPB-V1-AVE-1,non,63,Mouche granivore de l'épinette,21,27
+Épinettes,Arboretum de Verchère,EPB-V1-AVE-1,non,63,Tordeuse des graines de l'épinette,8,2
+Épinettes,Arboretum de Verchère,EPB-V1-AVE-1,non,63,Rouille,0,
+Épinettes,Fontbrune,EPB-V1-FON-1,non,64,Mouche granivore de l'épinette,50,48
+Épinettes,Fontbrune,EPB-V1-FON-1,non,64,Tordeuse des graines de l'épinette,47,20
+Épinettes,Fontbrune,EPB-V1-FON-1,non,64,Rouille,2,
+Épinettes,Fontbrune,EPB-V1-FON-2,non,64,Mouche granivore de l'épinette,42,38
+Épinettes,Fontbrune,EPB-V1-FON-2,non,64,Tordeuse des graines de l'épinette,77,30
+Épinettes,Fontbrune,EPB-V1-FON-2,non,64,Rouille,15,
+Épinettes,Arboretum Coulonge,EPB-R1-ACO-1,non,71,Mouche granivore de l'épinette,50,33
+Épinettes,Arboretum Coulonge,EPB-R1-ACO-1,non,71,Tordeuse des graines de l'épinette,59,12
+Épinettes,Arboretum Coulonge,EPB-R1-ACO-1,non,71,Rouille,11,
+Épinettes,Villeneuve,EPB-V1-VIL-1,non,72,Mouche granivore de l'épinette,70,47
+Épinettes,Villeneuve,EPB-V1-VIL-1,non,72,Tordeuse des graines de l'épinette,58,17
+Épinettes,Villeneuve,EPB-V1-VIL-1,non,72,Rouille,10,
+Épinettes,Baby,EPB-V1-BAB-1,non,81,Mouche granivore de l'épinette,52,31
+Épinettes,Baby,EPB-V1-BAB-1,non,81,Tordeuse des graines de l'épinette,8,8
+Épinettes,Baby,EPB-V1-BAB-1,non,81,Rouille,3,
+Épinettes,Desroberts,EPB-V1-DRO-1,non,83,Mouche granivore de l'épinette,81,36
+Épinettes,Desroberts,EPB-V1-DRO-1,non,83,Tordeuse des graines de l'épinette,4,4
+Épinettes,Desroberts,EPB-V1-DRO-1,non,83,Rouille,5,
+Épinettes,Labrosse,EPB-V1-LAB-1,non,91,Mouche granivore de l'épinette,83,34
+Épinettes,Labrosse,EPB-V1-LAB-1,non,91,Tordeuse des graines de l'épinette,7,5
+Épinettes,Labrosse,EPB-V1-LAB-1,non,91,Rouille,47,
+Pins,Aubin de l'Isle,PIB-V1-AUB-1,non,34,Perce-cône du pin blanc,14,34
+Pins,Aubin de l'Isle,PIB-V1-AUB-1,non,34,Scolyte des cônes du pin blanc,29,82
+Pins,Arboretum de Verchère,PIR-V1-AVE-1,oui,63,Perce-cône du pin rouge,19,57
+Feuillus,Saint-Ours,FRA-V1-SOU-1,non,63,Charançon,53,11
+Feuillus,Saint-Ours,FRA-V1-SOU-1,non,63,Cécidomyie,37,4

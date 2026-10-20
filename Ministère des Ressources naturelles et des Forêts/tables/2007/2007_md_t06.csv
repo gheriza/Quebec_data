@@ -1,0 +1,17 @@
+# Tableau 4. Répartition des plantations du réseau de surveillance dans les zones d’échantillonnage en 2007
+"# Source: Insectes, maladies et feux dans les forêts du Québec 2007 (Insectes_maladies_feux_2007.md, line 684)"
+Zones,Classes,,Str,ates,,
+d’échantillonnage,d’âge,Épinettes,Pins,Mélèzes,Feuillus,Total
+Érablière,0 à 5 ans,3,1,,,4
+,6 à 20 ans,44,37,20,14,115
+,21 ans et +,13,18,1,,32
+Total érablière,,60,56,21,14,151
+Sapinière,0 à 5 ans,4,4,,,8
+,6 à 20 ans,57,44,17,9,127
+,21 ans et +,10,16,1,,27
+Total sapinière,,71,64,18,9,162
+Pessière,0 à 5 ans,10,7,,,17
+,6 à 20 ans,54,36,,1,91
+,21 ans et +,,3,,,3
+Totalpessière,,64,46,0,1,111
+TOTAL,,195,166,39,24,424

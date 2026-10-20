@@ -1,0 +1,14 @@
+"# Tableau 13 – Nombre de plants rejetés lors des inspections de certification de 2001, selon les régions administratives"
+"# Source: Insectes, maladies et feux dans les forêts du Québec 2001 (Insectes_maladies_feux_2001.md, line 711)"
+Causes de dégâts,,,,Nom,bre d,e plan,ts re,jetés (,000),,,,Total
+,01,02,03,04,07,08,09,11,12,14,15,17,
+Chancre scléroderrien,X,36,X,60,,,,,,,51,,147
+Charançon de la racine du fraisier,XX,XX,,XX,XX,XX,,,XX,XX,,,
+Gel racinaire,•,•,•,•,•,•,,•,,•,•,•,
+Gel automnal,•,•,,•,•,•,,•,•,•,•,•,
+Gel hivernal,•,•,•,•,•,•,,•,,,•,,
+Moisissures,6,38,X,5,X,X,,X,X,X,,29,78
+Moisissures de plants entreposés,4,1,,X,,X,,,,35,,,40
+Neige,•,•,,•,,•,,•,,,,•,
+Punaise terne,XX,XX,XX,XX,XX,XX,,XX,XX,XX,XX,XX,
+Total,10,75,,65,,,,,,35,51,29,265

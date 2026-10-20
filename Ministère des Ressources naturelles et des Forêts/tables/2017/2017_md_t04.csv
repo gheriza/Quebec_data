@@ -1,0 +1,82 @@
+# Tableau 5. Description des classes de caractérisation des patrons de brûlage
+"# Source: Insectes, maladies et feux dans les forêts du Québec 2017 (bilan2017-p.md, line 1051)"
+"Clas
+cara
+patr","ses de
+ctérisation des
+ons de brûlage
+Vert","Affecté
+Roussi",Carbonisé
+Desc,"ription
+Le feu ne s’est pas propagé
+à cet endroit (îlot non brûlé)
+à l’intérieur du périmètre
+de feu.","Le feu s’est propagé au sol et
+a brûlé, en tout ou en partie,
+la végétation de surface ou
+la matière organique. En
+peuplement forestier, moins
+de la moitié des cimes
+d’arbres est affectée (roussie
+ou carbonisée).
+Le feu s’est propagé sur
+cette superficie. Plus de la
+moitié des cimes d’arbres est
+affectée par le feu (roussie
+ou carbonisée) et pour la
+majorité de ces arbres, les
+cimes sont roussies.","Le feu s’est propagé sur
+cette superficie. Plus de la
+moitié des cimes d’arbres est
+affectée par le feu (roussie
+ou carbonisée). Le feu a
+consumé le feuillage et noirci
+la tige (carbonisée) pour la
+majorité de ces arbres."
+"22
+24
+26",,,
+20,,,
+"16
+18",,,
+"14
+ie (Mha)",,,
+"10
+12
+Superfici",,,
+8,,,
+6,,,
+"0
+2
+4",,,
+,"AU
+BR
+C1
+C2
+C3
+C5","C6
+C7
+D1
+DH
+DS
+EA
+M1/M2
+M3/M4
+Types de combustibles","O1a
+O1b
+S1
+S2"
+,,"Zone de protection intensive
+Zone nordique",
+Type,s de combustibles forestiers,,
+AU,"Terrain agricole, urbain, etc.","EAEau, lac, rivière, etc.",
+C1,Pessière à lichens,BRBrûlé,
+C2,Pessière boréale,M1Forêt boréale mixte sans feuilles,
+C3,Pins gris ou pins tordus à maturité,M2Forêt boréale mixte avec feuilles,
+C4,Jeunes pins gris ou pins tordus,"M3Forêt mixte à sapins baumiers morts, sa",ns feuilles
+C5,Pins rouges et pins blancs,"M4Forêt mixte à sapins baumiers morts, a",vec feuilles
+C6,Plantation de conifères,S1Rémanents de pins gris ou pins tordus,
+C7,Pins ponderosas et de Douglas taxifoliés,S2Rémanents d’épinettes blanches et de s,apins baumiers
+D1,Peuplier faux-tremble sans feuilles,"S3Rémanents de thuyas, pruches et dougl",as côtiers
+DH,Dénudé humide,O1AHerbes mortes aplaties,
+DS,Dénudé sec,O1BHerbes mortes sur pied,

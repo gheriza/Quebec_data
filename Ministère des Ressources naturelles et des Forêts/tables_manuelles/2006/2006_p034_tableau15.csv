@@ -1,0 +1,10 @@
+# Tableau 15. Pertes de plants non quantifiées et liées aux agents abiotiques en 2006
+# Source: Insectes, maladies et feux dans les forêts québécoises en 2006, page 34 du PDF (tableau lu sur l'image de la page)
+# ● = pertes relevées mais non quantifiées par la DEPF; vide = rien de signalé
+Cause de dégâts,01,02,03,04,07,08,09,11,12,14,15,17
+Dessiccation hivernale,●,●,,●,●,●,●,●,,●,●,●
+Gel racinaire,●,●,●,●,●,●,●,●,●,●,●,●
+Gelure automnale,●,●,●,●,●,●,●,,,●,●,
+Gelure hivernale,●,●,,●,●,●,●,●,●,●,●,●
+Gelure printanière,●,,,,,●,,●,,●,●,
+Neige,●,●,●,●,●,●,●,●,●,●,●,

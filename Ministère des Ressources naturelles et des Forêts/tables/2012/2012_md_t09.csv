@@ -1,0 +1,61 @@
+# Tableau 7. Pourcentage des superficies brûlées selon les classes de caractérisation des patrons de brûlage pour les feux caractérisés de 2009 à 2012
+"# Source: Insectes, maladies et feux dans les forêts du Québec 2012 (bilan2012.md, line 1279)"
+CLASSE DE,,VERT,AFFECTÉ,ROUSSI,CARBONISÉ
+"CARACTÉRISAT
+PATRONS DE B","ION DES
+RÛLAGE",,,,
+Année,Numéro du feu,%,%,%,%
+,241,"18,7","36,5","3,9","40,9"
+,249,"8,5","51,3","0,6","39,6"
+,290,"14,5","20,3","14,0","51,2"
+2009,308,"12,4","22,2","27,2","38,2"
+,311,"2,8","44,9","9,2","43,1"
+,313,"3,0","42,9","18,3","35,8"
+,316,"18,7","21,7","4,6","55,0"
+,154,"2,5","17,8","48,9","30,8"
+,248,"7,3","33,4","31,2","28,1"
+,253,"2,9","59,6","31,1","6,4"
+,267,"0,3","53,2","25,9","20,6"
+,269,"5,6","25,5","38,3","30,6"
+,270,"3,2","45,0","29,5","22,3"
+,274,"6,7","21,8","26,4","45,1"
+2010,276,"0,8","34,0","27,1","38,1"
+,281,"13,6","10,7","43,9","31,8"
+,433,"8,9","55,7","18,7","16,7"
+,456,"9,8","24,2","45,6","20,4"
+,478,"0,1","43,4","20,4","36,1"
+,494,"6,7","32,6","36,4","24,3"
+,495,"0,3","28,5","10,3","60,9"
+2011,97,"0,2","9,0","22,4","68,4"
+,192,"11,2","37,9","23,7","27,2"
+,208,"11,6","75,6","5,0","7,8"
+,209,"0,8","62,3","10,1","26,8"
+2012,251,"10,3","51,1","16,9","21,7"
+,253,"8,3","45,2","21,9","24,6"
+,337,"5,4","48,2",24,"22,4"
+Moyenne,,"9,8","28,3","33,0","28,9"
+TYPE DE FEU,,Pas de feu.,,,
+,,Le feu ne s’est pas,Le feu s’est propagé,"Le feu s’est propagé
+i","Le feu s’est propagé
+i"
+DESCRIPTION,,propagé à cet endroit,"au sol et a brûlé, en",sur cette superficie.,sur cette superficie.
+,,(îlot non brûlé) à l’in-,tout ou en partie la,"i
+Plus de la moitié des","i
+Plus de la moitié"
+,,térieur du périmètre,",
+végétation de surface",cimes d’arbres est,des cimes d’arbres
+,,de feu.,"ou la matière orga-
+nique. En peuplement
+forestier, moins de
+la moitié des cimes
+d’arbres est affectée","affectée (roussie ou
+carbonisée) et pour
+la majorité de ces
+arbres, les cimes sont
+roussies.","est affectée par le
+feu (roussie ou car-
+bonisée). Le feu a
+consumé le feuillage
+et noirci la tige (carbo-"
+,,,(roussie ou carboni-,,nisés) pour la majorité
+,,,sée).,,de ces arbres.

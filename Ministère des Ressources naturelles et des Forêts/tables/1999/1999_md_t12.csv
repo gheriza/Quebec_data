@@ -1,0 +1,26 @@
+"# Tableau 11- Nombre de plants rejetés dans chacune des régions administratives, lors des inspections de certification de 1999"
+"# Source: Insectes, maladies et feux dans les forêts du Québec 1999 (Insectes_maladies_feux_1999.md, line 722)"
+"Causes de
+dégâts",01,02,03,04,"Plan
+05","ts
+07","rejetés
+08","('0
+09","00
+11",")
+12",14,15,17,Total
+"Chancre
+scléroderrien",X,,X,X,,,X,X,,,,X,,
+"Charançon de la
+racine du fraisier","1,5",XX,XX,XX,,,"4,5",,,XX,20,,,26
+Gel racinaire,.,.,.,.,.,.,.,,,,,.,.,
+Moisissure grise,64,6,,3,,2,115,,,,,,1,191
+Neige,.,.,.,.,,.,.,,.,.,,.,.,
+"Pourriture
+racinaire^1",25,15,,X,,,X,,,17,36,,,93
+"Pourriture
+racinaire^2",XX,,XX,XX,,,,,XX,,XX,17,,17
+Rongeurs,31,13,XX,,XX,,262,,,,20,,,326
+"Rouilles
+caulicoles des
+pins",,XX,,XX,,,,,,,,,,
+Total,"121,5",34,,3,,2,"381,5",,,17,76,17,1,653

@@ -1,0 +1,31 @@
+# Tableau 18. Présence de deux rouilles du genre _Melampsora_ au Québec en 2006
+"# Source: Insectes, maladies et feux dans les forêts du Québec 2006 (Insectes_maladies_feux_2006.md, line 1428)"
+Régions administratives,Types de production,Hybrides,N^ode clone PEH^1,Rouille
+Abitibi-Témiscamingue,Pépinière forestière,J^2,"1079, 1081, 3389",MMD^3
+,,M x B,"3374, 3375",MMD
+,Plantation,,,MMD
+Bas-Saint-Laurent,Pépinière forestière,N x M,3729,MLP^4
+,,M x DT,"505327, 505372, 505468, 505508, 750301, 750306, 750314,
+750315, 750316",MLP
+,,M x B,"3374, 915004",MMD
+,,,"3374, 3375, 915308, 915311, 915313, 915314, 915318,
+915319, 915320",MLP
+,,DN x M,916401,MLP
+,Plantation,,,MMD
+Lanaudière,Pépinière forestière,D x N,"131, 3308, 3565, 3570, 3585, 3586, 3587,4813",MMD
+,,,3333,MLP
+,,T x D,"3225, 3230",MMD
+,,N x M,3729,MLP
+,,M x B,"915302, 915303, 915311, 915313",MLP
+Mauricie,Pépinière forestière,M x DT,"505508, 750301, 750316,",MLP
+,,M x B,"3374, 3375, 915302, 915303, 915311, 915313, 915318,
+915319, 915320",MLP
+,,,915004,MMD et MLP
+,,D x N,"3565, 3567, 3570, 3585, 3586, 3587, 4813",MMD
+,,,"131, 3308, 3333, 4397",MMD et MLP
+,,T x D,3230,MMD
+,,,3225,MMD et MLP
+,,N x M,3729,MLP
+,,DN x M,916401,MLP
+Outaouais,Plantation,,,MLP
+Saguenay–Lac-Saint-Jean,Pépinière forestière,M x B,"3374, 3375, 915004, 915319",MMD

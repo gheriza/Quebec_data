@@ -1,0 +1,17 @@
+"# Tableau 13 – Nombre de plants rejetés lors des inspections de certification de 2000, selon les régions administratives"
+"# Source: Insectes, maladies et feux dans les forêts du Québec 2000 (Insectes_maladies_feux_2000.md, line 679)"
+C d déât,,,,,Pla,nts,reje,tés,(0,00),,,
+auses e gs,01,02,03,04,07,08,09,11,12,14,15,17,Total
+Chancre scléroderrien,X,X,X,,X,X,X,,,,X,,
+Charançon de la racine du fraisier,XX,XX,XX,XX,XX,XX,XX,,XX,XX,XX,,
+Gel racinaire,.,.,.,.,.,.,.,.,,.,.,.,
+Gel automnal,.,.,.,.,.,.,,,.,.,,.,
+Gel printanier,.,.,.,.,.,.,,,.,.,.,,
+Moisissures,4,3,30,X,,57,,X,X,X,X,X,94
+Moisissure d'entreposage,9,X,,X,,,,,,X,,,9
+Neige,.,,.,.,,,.,,.,.,.,.,
+Pourriture racinaire,22,X,,X,,,,,X,28,,,50
+Punaise terne,.,.,.,.,.,.,,.,.,.,.,.,
+Rongeurs,41,3,10,X,,3,,18,X,X,,,75
+Rouilles caulicoles des pins,,XX,,,,XX,,,,,,,
+Total,76,6,40,,,60,,18,,28,,,228

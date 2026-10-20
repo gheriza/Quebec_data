@@ -1,0 +1,52 @@
+# Tableau 13. Organismes et agents abiotiques trouvés dans les plantations de peupliers hybrides en 2005
+"# Source: Insectes, maladies et feux dans les forêts du Québec 2005 (Insectes_maladies_feux_2005.md, line 963)"
+Ravageurs,1,2,"Rég
+4","ions
+5","admin
+7","istratives^1
+8
+10",12,14
+Insectes,,,,,,,,
+"Agrile desgourmands despeupliers, _Agrilus horni_",x,x,x,x,x,x,,x
+"Pucerons, _Aphididae_",x,x,x,,x,x,,
+"Charançon du saule, _Cryptorhynchus lapathi_",x,,x,x,x,x,,
+"Chenille à tente estivale, _Hyphantria cunea_",,,x,x,x,,,
+"Chrysomèles, _Chrysomelidae_",x,x,x,x,,,x,x
+_Isochnus_spp.,x,x,x,x,x,,x,x
+"Cèphe du saule, _Janus abbreviatus_",,x,,,x,,,
+"Livrée des forêts, _Malacosoma disstria_",,,x,,,,,
+"Mineuse serpentine du tremble, _Phyllocnistispopuliella_",,,,x,x,,,
+"Mineuse tache, _Phyllonorycter_sp.",,x,,x,x,,,
+"Puceron vagabond dupeuplier, _Mordwilkoja vagabunda_",,,x,,x,,,
+"Punaise terne, _Lygus lineolaris_",x,x,x,x,x,"x
+x",x,x
+"Pyrales, _Pyralidae_",x,x,,x,x,,,
+"Saperdes, _Saperda_spp.",,,x,x,x,,x,x
+_Zeugophora_ sp,x,x,,,x,,x,
+Maladies,,,,,,,,
+"Anthracnose, _Discula umbrinella_",x,x,x,x,x,,,
+"Brûlure des feuilles, _Linospora tetraspora_",,,,,x,,,
+"Carie blanche, _Chondrostereumpurpureum_",x,,,,,,,
+"Chancre cytosporéen, _Cytospora_ _chrysosperma_",,x,x,x,x,x,,
+"Chancre cytosporéen, _Valsa sordida_",,,,x,x,,,
+"Chancre cytosporéen, _Cytospora_sp.",x,x,x,x,x,x,,x
+"Chancre fusarien, _Fusarium_spp.",,x,,x,,,,x
+"Chancre hypoxylonien, _Entoleuca mammata_",,x,,,,,,
+"Chancrephomopsien, _Phomopsis_sp.",,,,,,x,,
+"Chancre, _Phoma_sp.",,,,x,,,,
+"Pourridié-agaric,_Armillaria_spp.",,,,,x,,,
+"Rouille des feuilles, _Melampsora larici-populina_",x,,,,x,,x,
+"Rouille des feuilles, _Melampsora medusae_f.sp_.deltoidae_",x,x,x,x,x,,,
+"Tache des feuilles, _Phyllosticta_sp.",,,,,x,,,
+"Tache marssoninéenne, _Marssonina tremulae_",,,x,,x,,,
+"Tache septorienne(tache et chancre), _Septoria musiva_",x,,x,x,x,,,
+"Tache septorienne, _Septoriapopulicola_",x,x,x,x,x,,x,x
+"Tache septorienne, _Septoria_sp.",,,,,,,x,
+"Tache septotinienne, _Septotiniapopuliperda_",x,,x,,x,,x,x
+Agents abiotiques,,,,,,,,
+Blessure mécanique,x,x,x,x,x,"x
+x",x,
+Bris deglace,,,x,,,,,
+Bris de verglas,,x,,,,,,
+Gelureprintanière,,x,,,x,,,
+Insolation,x,,,,,,,

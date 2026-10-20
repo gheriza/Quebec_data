@@ -1,0 +1,13 @@
+# Tableau 3. Nombre de plantations touchées par le charançon du pin blanc selon les niveaux de dommage en 2009
+"# Source: Insectes, maladies et feux dans les forêts du Québec 2009 (Insectes_maladies_feux_2009.md, line 575)"
+Domaine,E,,Nive,aux de dommage^1,,,Total
+bioclimatique,ssence,Aucun,Présence,Trace,Léger,Modéré,
+Ébliè,Épinette,43,1,10,7,0,61
+rare,Pin,53,0,1,3,3,60
+Siiè,Épinette,68,2,5,4,0,79
+apnre,Pin,52,2,6,4,0,64
+Piè,Épinette,56,0,7,0,0,63
+essre,Pin,34,2,1,0,0,37
+Total Épinette,,167,3,22,11,0,203
+Total Pin,,139,4,8,7,3,161
+Total général,,306,7,30,18,3,364

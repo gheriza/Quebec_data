@@ -1,0 +1,29 @@
+# Tableau 3. Nombre de feux de forêt répertoriés et superficies touchées (ha) dans la zone de protection intensive en 2015
+"# Source: Insectes, maladies et feux dans les forêts du Québec 2015 (bilan-2015-p.md, line 861)"
+,,,,,Cau,ses,,,,,
+Périodes,,Foudre,"Chemins
+de fer","Opérations
+forestières","Opérations
+industrielles",^Incendiaires,Résidents,Récréation,Autres,Total,%
+Avril,Nombre,0,0,0,1,2,21,4,0,28,8
+,Superficie (ha),0,0,0,0,3,10,3,0,16,4
+Mai,Nombre,3,0,2,14,8,134,44,5,210,58
+,Superficie (ha),4,0,0,20,3,118,59,3,207,52
+Juin,Nombre,11,0,7,3,2,5,7,0,35,10
+,Superficie (ha),133,0,24,0,0,1,2,0,160,40
+Juillet,Nombre,12,1,6,2,3,0,9,1,34,9
+,Superficie (ha),8,0,0,0,0,0,0,0,8,2
+Août,Nombre,7,0,0,1,1,4,14,0,27,7
+,Superficie (ha),2,0,0,0,0,3,1,0,6,2
+Septembre,Nombre,1,0,1,1,2,4,9,1,19,5
+,Superficie (ha),0,0,0,0,0,1,1,0,2,< 1
+Octobre,Nombre,0,0,3,1,0,2,2,1,9,2
+,Superficie (ha),0,0,0,0,0,0,0,0,0,0
+Novembre,Nombre,0,0,0,0,0,1,1,0,2,1
+,Superficie (ha),0,0,0,0,0,0,1,0,1,< 1
+Décembre,Nombre,0,0,0,0,0,0,1,0,1,< 1
+,Superficie (ha),0,0,0,0,0,0,0,0,0,0
+Total,Nombre,34,1,19,23,18,171,91,8,365,100
+,%,9,0,5,6,5,47,25,2,,100
+,Superficie (ha),147,0,24,20,6,133,67,3,400,100
+,%,37,0,6,5,1,33,17,1,,100

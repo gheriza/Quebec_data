@@ -1,0 +1,29 @@
+# Tableau 4. Nombre de plantations visitées et pourcentage de plants observés selon les essences et dans chacune des régions administratives en 2003
+"# Source: Insectes, maladies et feux dans les forêts du Québec 2003 (Insectes_maladies_feux_2003.md, line 516)"
+Régions administratives,"Nombre de
+plantations","Nombre de
+plantations",Pou,"rcent
+prin","age de
+cipale","plan
+s es","ts ob
+sence","servé
+s éva","s sel
+luées",on les,"Nombre de
+plants"
+,visitées,évaluées,MEH,MEL,MEU,PEH,PIB,PIG,PIR,Autres,observés
+01 Bas-Saint-Laurent,23,10,8,0,0,8,43,8,33,0,1 200
+02 Saguenay–Lac-Saint-Jean,56,47,4,1,0,0,4,87,5,0,10 900
+03 Capitale-Nationale,16,15,0,5,0,0,32,47,16,0,1 900
+04 Mauricie,32,27,0,5,0,0,16,69,7,3,5 800
+05 Estrie,45,14,0,6,0,0,75,0,19,0,1 600
+07 Outaouais,64,57,0,1,0,0,48,16,35,0,12 200
+08 Abitibi-Témiscamingue,40,35,0,0,0,0,36,61,3,0,9 400
+09 Côte-Nord,18,15,0,0,0,0,0,100,0,0,5 300
+10 Nord-du-Québec,15,14,0,0,0,6,0,94,0,0,4 800
+11 Gaspésie–Îles-de-la-Madeleine,18,13,0,0,0,0,50,31,19,0,2 600
+12 Chaudière-Appalaches,35,27,7,7,0,3,52,0,28,3,2 900
+14 Lanaudière,21,13,4,0,33,0,19,30,4,10,2 700
+15 Laurentides,22,18,0,0,0,0,52,23,13,12,3 100
+16 Montérégie,13,4,0,25,0,0,75,0,0,0,400
+17 Centre-du-Québec,33,13,7,0,0,0,29,29,35,0,1 400
+Total,451,322,1,2,1,1,28,52,13,2,66 200

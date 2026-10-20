@@ -1,0 +1,17 @@
+# Tableau 6- Pourcentage des plantations infectées par le pourridié-agaric en 2008
+"# Source: Insectes, maladies et feux dans les forêts du Québec 2008 (Insectes_maladies_feux_2008.md, line 830)"
+Zones d’échantillonnage,"Nombre de p
+et niveau de
+dans cha","lantations in
+dommage o
+cune des str","fectées
+bservé
+ates",Total
+,Épinettes,Mélèzes,Pins,
+,trace,trace,trace,
+Érablière,2,1,1,4
+Sapinière,6,1,8,15
+Pessière,16,0,6,22
+Plantations infectées,24,2,15,41
+Plantations visitées,196,34,154,384
+Plantations infectées(%),12,6,10,11%

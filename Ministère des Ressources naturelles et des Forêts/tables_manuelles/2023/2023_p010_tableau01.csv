@@ -1,0 +1,7 @@
+# Tableau 1. Nombre de plantations visitées selon les essences dans chaque domaine bioclimatique en 2023
+# Source: Insectes, maladies et feux dans les forêts du Québec en 2023, page 10 du PDF (image du tableau transcrite manuellement; totaux des lignes et des colonnes vérifiés)
+Domaine bioclimatique,Épinette blanche,Épinette noire,Épinette de Norvège,Épinette rouge,Pin blanc,Pin gris,Pin rouge,Mélèze hybride,Mélèze japonais,Mélèze laricin,Érable à sucre,Noyer noir,Peuplier hybride,Frêne de Pensylvanie,Frêne d'Amérique,Chêne rouge,Total
+Érablière,24,5,1,4,24,8,34,1,1,5,1,2,0,0,1,0,111
+Sapinière,57,48,6,2,15,43,11,1,0,6,0,0,1,4,0,2,196
+Pessière,4,12,0,0,0,13,0,0,0,1,0,0,0,0,0,0,30
+Total,85,65,7,6,39,64,45,2,1,12,1,2,1,4,1,2,337

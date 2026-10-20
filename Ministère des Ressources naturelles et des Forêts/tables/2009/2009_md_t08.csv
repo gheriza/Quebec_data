@@ -1,0 +1,38 @@
+# Tableau 7. Nombre de pépinières touchées et de lots endommagés par des agents abiotiques en 2009
+"# Source: Insectes, maladies et feux dans les forêts du Québec 2009 (Insectes_maladies_feux_2009.md, line 858)"
+,,,,,Ré,gions ad,ministrati,ves,,,,,
+Dommages*,01,02,03,04,07,08,09,11,12,14,15,17,Total
+Bris de glace,,,,,,,,,,,,,
+Nombre de pépinières,1,4,2,1,1,3,1,2,0,1,1,0,17
+Nombre de lots,1,11,2,5,6,18,9,3,0,2,6,0,63
+Bris de neige,,,,,,,,,,,,,
+Nombre de pépinières,4,0,3,2,0,2,1,1,0,1,2,1,17
+Nombre de lots,22,0,15,18,0,11,2,1,0,7,9,1,86
+Brûlure chimique,,,,,,,,,,,,,
+Nombre de pépinières,0,3,0,0,0,1,0,2,0,1,1,0,8
+Nombre de lots,0,3,0,0,0,1,0,2,0,2,7,0,15
+Dessiccation hivernale,,,,,,,,,,,,,
+Nombre de pépinières,3,3,1,1,1,3,1,1,1,1,1,0,17
+Nombre de lots,22,4,1,1,1,8,4,2,12,10,5,0,70
+Dessiccation hivernale +^1,,,,,,,,,,,,,
+Nombre de pépinières,1,0,1,0,1,0,1,0,1,0,1,0,6
+Nombre de lots,1,0,1,0,1,0,10,0,2,0,1,0,16
+Excès d’eau,,,,,,,,,,,,,
+Nombre de pépinières,2,3,1,2,1,3,1,2,0,1,1,1,18
+Nombre de lots,17,4,1,11,1,24,8,7,0,3,2,3,81
+Gel racinaire,,,,,,,,,,,,,
+Nombre de pépinières,1,2,2,1,0,3,1,1,1,1,1,1,15
+Nombre de lots,1,7,3,3,0,15,5,1,1,1,14,16,67
+Gel racinaire +^2,,,,,,,,,,,,,
+Nombre de pépinières,0,1,0,0,0,2,0,0,1,0,0,1,5
+Nombre de lots,0,1,0,0,0,3,0,0,3,0,0,1,8
+Gelure automnale,,,,,,,,,,,,,
+Nombre de pépinières,2,1,0,2,1,1,0,1,0,1,0,0,9
+Nombre de lots,4,2,0,4,4,4,0,1,0,1,0,0,20
+Gelure hivernale,,,,,,,,,,,,,
+Nombre de pépinières,0,1,0,1,0,0,0,1,0,0,0,0,3
+Nombre de lots,0,1,0,7,0,0,0,1,0,0,0,0,9
+Gelure printanière,,,,,,,,,,,,,
+Nombre de pépinières,2,4,2,2,1,3,1,2,1,1,2,1,22
+Nombre de lots,6,40,4,6,5,7,3,6,4,3,9,6,99
+Nombre depépinières visitées,5,4,3,2,1,3,1,2,1,1,2,1,26

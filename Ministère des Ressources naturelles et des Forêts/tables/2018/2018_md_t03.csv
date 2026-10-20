@@ -1,0 +1,27 @@
+# Tableau 3. Nombre de feux de forêt répertoriés et superficies touchées (ha) dans la zone de protection intensive en 2018 par causes et par mois.
+"# Source: Insectes, maladies et feux dans les forêts du Québec 2018 (RA_2018_DPF.md, line 1400)"
+,,,,,Ca,uses,,,,,
+Périodes,,Foudre,"Chemins
+de fer","Opérations
+forestières","Opérations
+industrielles",Incendiaires,Résidents,Récréation,Autres,Total,%
+Avril,Nombre,0,0,0,0,0,11,0,1,12,0
+,Superficie (ha),0,0,0,0,0,12,0,< 1,13,0
+Mai,Nombre,3,7,3,21,3,116,33,2,188,36
+,Superficie (ha),7,1,< 1,7,5,66,84,< 1,170,1
+Ji,Nombre,29,1,10,13,2,19,24,0,98,19
+un,Superficie (ha),1 782,< 1,6,7,< 1,4,15 552,0,17 353,65
+Jillet,Nombre,97,0,12,6,2,16,35,0,168,32
+u,Superficie (ha),9 156,0,4,< 1,< 1,2,2,0,10 877,41
+Août,Nombre,9,0,5,1,2,8,10,1,36,7
+,Superficie (ha),1,0,2,0,< 1,2,10,< 1,15,0
+Stb,Nombre,1,0,0,0,3,2,9,0,15,3
+epemre,Superficie (ha),0,0,0,0,0,< 1,< 1,0,< 1,0
+Otbr,Nombre,0,0,0,1,0,8,4,0,13,3
+coe,Superficie (ha),0,0,0,0,0,1,< 1,0,1,0
+Nmbr,Nombre,0,0,0,0,0,1,0,0,1,0
+ovee,Superficie (ha),0,0,0,0,0,0,0,0,0,0
+Total,Nombre,139,8,30,42,12,181,115,4,531,100
+,%,26,2,6,8,2,34,22,1,,100
+,Superficie (ha),10 946,1,12,14,6,88,15 649,1,26 717,100
+,%,41,0,0,0,0,0,59,0,,100

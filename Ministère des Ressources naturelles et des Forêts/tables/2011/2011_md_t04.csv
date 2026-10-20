@@ -1,0 +1,15 @@
+# Tableau 3. Répartition des lots de plants inspectés en fonction des essences en 2011
+"# Source: Insectes, maladies et feux dans les forêts du Québec 2011 (bilan2011.md, line 642)"
+Essences,Nombre de lots,"Nombre de plants
+(millions)"
+Épinette noire,355,"99,3"
+Épinette blanche,227,"28,3"
+Épinette de Norvège,23,"1,1"
+Pingris,76,"32,3"
+Pin blanc,50,"2,6"
+Mélèze,54,"2,9"
+Autres résineux^1,58,"3,7"
+Peuplier hybride,195,"1,4"
+Feuillus nobles^2,120,"4,9"
+Autres feuillus^3,22,"2,6"
+Total,1180,"179,1"

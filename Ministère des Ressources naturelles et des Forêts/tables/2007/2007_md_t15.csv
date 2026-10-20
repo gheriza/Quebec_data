@@ -1,0 +1,69 @@
+# Tableau 12. Nombre de lots affectés par les agents biotiques et nombre de plants rejetés (x 1 000) lors des inspections de certification en 2007
+"# Source: Insectes, maladies et feux dans les forêts du Québec 2007 (Insectes_maladies_feux_2007.md, line 1020)"
+Causes de déâts,,,,,Ré,gions ad,ministra,tives,,,,,TOTAL
+g,01,02,03,04,07,08,09,11,12,14,15,17,
+Chancre scléroderrien,,,,,,,,,,,,,
+Nbre de pépinières,0,2,0,0,0,1,1,s.o.^1,0,0,0,0,4
+Nbre de lots,0,4,0,0,0,1,3,s.o.^1,0,0,0,0,8
+Nbre de plants rejetés,0,X,0,0,0,X,X,s.o.^1,0,0,0,0,X
+Charançon de la racine du fraisier,,,,,,,,,,,,,
+Nbre de pépinières,2,0,0,0,0,0,0,1,1,0,0,1,5
+Nbre de lots,3,0,0,0,0,0,0,2,7,0,0,1,13
+Nbre de plants rejetés,X,0,0,0,0,0,0,56,4,0,0,X,60
+Charançon noir de la vigne,,,,,,,,,,,,,
+Nbre de pépinières,0,0,0,0,0,0,0,1,0,0,0,0,1
+Nbre de lots,0,0,0,0,0,0,0,4,0,0,0,0,4
+Nbre de plants rejetés,0,0,0,0,0,0,0,44,0,0,0,0,44
+"Pourriture des racines associée à un excès
+d’eau",,,,,,,,,,,,,
+Nbre de pépinières,2,1,1,2,0,3,0,2,0,0,0,0,11
+Nbre de lots,2,2,1,7,0,8,0,3,0,0,0,0,23
+Nbre de plants rejetés,0,14,X,22,0,X,0,X,0,0,0,0,36
+Moisissures,,,,,,,,,,,,,
+Nbre de pépinières,4,2,2,2,1,3,1,2,1,1,1,1,21
+Nbre de lots,83,5,27,21,1,30,2,14,25,11,8,10,237
+Nbre de plants rejetés,1,0,0,0,0,0,0,0,7,0,0,1,9
+Moisissures de plants entreposés,,,,,,,,,,,,,
+Nbre de pépinières,1,1,s.o.^2,1,s.o.^2,1,s.o.^2,s.o.^2,s.o.^2,1,s.o.^2,s.o.^2,5
+Nbre de lots,6,3,s.o.^2,6,s.o.^2,7,s.o.^2,s.o.^2,s.o.^2,11,s.o.^2,s.o.^2,33
+Nbre de plants rejetés,X,X,s.o.^2,X,s.o.^2,X,s.o.^2,s.o.^2,s.o.^2,X,s.o.^2,s.o.^2,X
+Pourriture des racines,,,,,,,,,,,,,
+Nbre de pépinières,4,2,2,1,1,3,0,2,0,1,1,0,17
+Nbre de lots,48,10,2,7,1,5,0,2,0,16,1,0,92
+Nbre de plants rejetés,27,22,X,9,X,X,0,X,0,17,X,0,75
+Punaise terne,,,,,,,,,,,,,
+Nbre de pépinières,3,3,1,2,1,2,0,2,1,1,1,1,18
+Nbre de lots,24,7,2,9,2,11,0,7,4,7,1,2,76
+Nbre de plants rejetés,X,X,X,X,X,X,0,X,X,X,X,X,X
+Rongeurs,,,,,,,,,,,,,
+Nbre de pépinières,2,1,1,2,1,2,0,2,0,0,1,1,13
+Nbre de lots,6,1,1,7,2,3,0,3,0,0,4,1,28
+Nbre de plants rejetés,3,X,1,3,X,6,0,7,0,0,41,3,64
+Rouilles caulicoles des pins,,,,,,,,,,,,,
+Nbre de pépinières,0,1,0,1,0,1,0,s.o.^1,s.o.^1,0,0,0,3
+Nbre de lots,0,2,0,1,0,1,0,s.o.^1,s.o.^1,0,0,0,4
+Nbre de plants rejetés,0,2,0,X,0,1,0,s.o.^1,s.o.^1,0,0,0,3
+Brûlures des rameaux (_Diplodia_ _pinea_),,,,,,,,,,,,,
+Nbre de pépinières,0,0,0,1,0,2,0,0,0,0,0,0,3
+Nbre de lots,0,0,0,1,0,2,0,0,0,0,0,0,3
+Nbre de plants rejetés,0,0,0,X,0,X,0,0,0,0,0,0,X
+Brûlures des pousses(_Sirococcus_ _conigenus_),,,,,,,,,,,,,
+Nbre de pépinières,1,1,1,1,0,1,0,0,0,0,0,0,5
+"Nbre de lots
+Nbre de plants rejetés","3
+X","2
+1","1
+X","4
+X","0
+0","2
+X","0
+0","0
+0","0
+0","0
+0","0
+0","0
+0","12
+1"
+Nb ttl d lt té,31,39,1,34,0,7,0,107,11,17,41,4,292
+re oa e pans rejes,,,,,,,,,,,,,
+Nbre de pépinières visitées,5,4,3,2,1,3,1,2,1,1,2,1,26

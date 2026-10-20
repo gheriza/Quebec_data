@@ -1,0 +1,10 @@
+# Tableau 21. Proportion du volume dans la classe «premium» selon la prise en considération des défauts dus au feu
+"# Source: Insectes, maladies et feux dans les forêts du Québec 2006 (Insectes_maladies_feux_2006.md, line 1680)"
+Essence,Classe,Défauts dus au,Défauts dus au
+,d’intensité,feu non considérés,feu considérés
+Épinette noire,Vivant chauffé,"48,3","39,1"
+,Roussi,"54,7","1,2"
+,Carbonisé,"47,0","8,8"
+Pin gris,Vivant chauffé,"54,3","31,4"
+,Roussi,"49,1","1,6"
+,Carbonisé,"53,5","9,0"

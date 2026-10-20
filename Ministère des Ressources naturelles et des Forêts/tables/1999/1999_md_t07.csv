@@ -1,0 +1,37 @@
+"# Tableau 6 – Distribution des plantations visitées et des essences observées en 1999, selon les régions administratives"
+"# Source: Insectes, maladies et feux dans les forêts du Québec 1999 (Insectes_maladies_feux_1999.md, line 509)"
+,N^brede,plantatio,ns,Po,urce,ntag,e de,plan,ts o,bser,vés,
+,v,sitées,,,,selon,les,esse,nces,,,Nombre
+Régions,,,,,,,,,,,,de
+administratives,"Strate
+épinettes","Strate
+pins et
+mélèzes",Total,EPB,EPN,EPO,EPR,PIB,PIG,PIR,"MEL
+MEH
+MEU","plants
+observés"
+"01 Bas-Saint-
+Laurent",89,14,103,23,47,17,1,2,2,5,3,19 900
+"02 Saguenay-
+Lac-Saint-Jean",61,36,97,18,46,0,0,1,33,2,0,25 300
+"03 Capitale-
+Nationale",27,16,43,38,13,4,12,8,21,4,0,8 200
+04 Mauricie,35,36,71,8,35,4,2,4,40,5,2,20 300
+05 Estrie,41,28,69,32,5,17,4,24,1,11,6,9 500
+07 Outaouais,36,49,85,14,20,4,0,28,19,15,0,15 500
+"08 Abitibi-
+Témiscamingue",49,51,100,18,23,1,0,12,39,5,2,21 000
+09 Côte-Nord,22,8,30,16,50,5,0,6,23,0,0,11 100
+"10 Nord-du-
+Québec",12,12,24,0,51,0,0,0,49,0,0,8 700
+"11 Gaspésie
+Îles-de-la-
+Madeleine",64,15,79,29,42,11,0,10,2,3,3,16 600
+"12 Chaudière-
+Appalaches",59,28,87,27,11,19,12,18,2,7,4,12 200
+14 Lanaudière,14,16,30,12,16,4,16,20,16,11,5,5 600
+15 Laurentides,28,28,56,28,18,4,7,16,21,6,0,12 600
+16 Montérégie,17,9,26,32,14,11,4,14,4,14,7,2 800
+"17 Centre-du-
+Québec",17,24,41,26,2,11,4,6,13,32,6,4 700
+Total,571,370,941,20,31,7,3,10,21,6,2,194 000

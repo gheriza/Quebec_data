@@ -1,0 +1,46 @@
+# Tableau 16. Pourcentage de cônes et de fruits affectés et pourcentage de graines endommagées selon les sources de semences améliorées en 2005
+"# Source: Insectes, maladies et feux dans les forêts du Québec 2005 (Insectes_maladies_feux_2005.md, line 1306)"
+Sources de semences,Unités de gestion,% cônes affectés(,% moyen degraines affectées),
+d’épinettes,,Mouche granivore de l’épinette,Tordeuse des graines de l’épinette,Rouille
+"Robidoux
+EPB-V1-ROB-1",111,96 (51),6 (12),4
+"Romieu
+EPB-V1-ROM-1",112,66 (35),1 (5),6
+"Falardeau *
+EPB-V1-FAL-1",21,63 (40),2 (5),12
+"Wendover
+EPB-V1-WEV-1",41,46 (34),38 (13),2
+EPB-V1-WEV-2,,65 (46),21 (14),
+"Cleveland
+EPB-V1-CLE-1",51,45 (42),66 (13),15
+"Pépinière de Berthierville *
+EPB-V2-PBE-1",62,4 (33),4 (13),1
+"Arboretum de Verchère
+EPB-V1-AVE-1",63,28 (46),64 (29),3
+"Fontbrune
+EPB-V1-FON-1
+EPB-V1-FON-2",64,"55 (55)
+27 (52)","46 (37)
+52 (42)",
+"Arboretum Coulonge
+EPB-R1-ACO-1",71,15 (56),87 (51),
+"Villeneuve
+EPB-V1-VIL-1",72,55 (59),66 (43),2
+"Desroberts *
+EPB-V1-DRO-1",83,72 (46),16 (28),20
+"Labrosse
+EPB-V1-LAB-1",91,39 (57),13 (23),5
+Sources de semences,Unités de gestion,% cônes affectés(,% moyen degraines affectées),
+de pins,,"Perce-cône du
+pin blanc│ pin rouge","Scolyte des cônes du
+pin blanc│ pin rouge",Pyrales
+"Arboretum de Verchère
+PIB-V1-AVE-1",63,33 (60),50 (82),2 (27)
+"Arboretum de Verchère *
+PIR-V1-AVE-1",63,4 (62),14 (79),41 (63)
+"Huddersfield
+PIB-V1-HUD-1",71,16 (39),3 (62),
+Source de semences,Unité de gestion,% degrappes affecté,es(% akènes affectés),
+de feuillus,,Charançon,Cécidomyie,
+"Saint-Ours
+FRA-V1-SOU-1",63,15 (14),9 (4),

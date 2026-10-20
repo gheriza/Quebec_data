@@ -1,0 +1,15 @@
+# Tableau 7 - Pourcentage des plantations d’épinettes infectées par la rouille des aiguilles en 2008
+"# Source: Insectes, maladies et feux dans les forêts du Québec 2008 (Insectes_maladies_feux_2008.md, line 876)"
+"Essences
+échantillonnées","Nombre de
+plantations","Nombre de
+plantations",,"Nombre de plant
+par niveau d","ations infectées
+e dommage",,"Pourcentage de
+plantations"
+,visitées,évaluées,Trace,Léger,Modéré,Grave,infectées
+Épinette blanche,59,7,2,0,2,3,12
+Épinette noire,109,50,6,31,12,1,46
+Épinette rouge,10,1,1,0,0,0,10
+Total,178,58,,,,,33
+TOTAL (%),,,9 (16),31 (53),14 (24),4 (7),

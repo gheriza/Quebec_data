@@ -1,0 +1,26 @@
+"# Tableau 6 - Nombre de plantations visitées selon les essences et le pourcentage de plants observés dans chacune des régions administratives, en 2002"
+"# Source: Insectes, maladies et feux dans les forêts du Québec 2002 (Insectes_maladies_feux_2002.md, line 509)"
+,Régions admnistratives,"Nombre de
+plantations
+visitées",Pour,"centage de
+selon les","plants ob
+essences",servés,"Nombre
+de plants"
+,,"Strate
+épinettes",EPB,EPN,EPO,EPR,observés
+01,Bas-Saint-Laurent,84,33,46,17,4,15100
+02,Saguenay–Lac-Saint-Jean,66,23,77,0,0,16100
+03,Capitale-Nationale,22,55,33,2,10,4 900
+04,Mauricie,32,22,67,6,5,7 900
+05,Estrie,32,41,17,28,14,3 600
+07,Outaouais,33,36,51,13,0,5 300
+08,Abitibi-Témiscamingue,46,38,61,1,0,8 300
+09,Côte-Nord,30,34,56,10,0,8 900
+10,Nord-du-Québec,16,6,94,0,0,4 700
+11,Gaspésie–Îles-de-la-Madeleine,59,35,45,19,1,12 100
+12,Chaudière-Appalaches,64,42,15,21,22,8 200
+14,Lanaudière,14,25,38,8,29,2 400
+15,Laurentides,15,46,21,18,15,3 400
+16,Montérégie,14,50,29,21,0,1 400
+17,Centre-du-Québec,16,49,13,25,13,1 600
+Tota,l,543,33,51,11,5,103 900

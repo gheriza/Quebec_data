@@ -13,6 +13,7 @@ theme folder has its own `README.md` that explains every file and column.
 | `2_forest/forest_cover_change_hansen/` | Tree cover and tree loss from satellite | One region-year, one ~1 km grid square, or one 30 m pixel | 2000 – 2025 | University of Maryland (Hansen et al.), Global Forest Change v1.13 |
 | `3_biodiversity/insect_specimens_ciq/` | Museum insect specimens (dragonflies and damselflies) | One preserved specimen | 1930 – 2015 | Collection d'insectes du Québec, via Canadensys |
 | `4_pesticides/` | Pesticide wholesale sales | One active ingredient × use sector × year | 2020 – 2024 | Quebec Ministry of the Environment (MELCCFP), via Données Québec |
+| `Ministère des Ressources naturelles et des Forêts/` | Every table from the annual reports on forest insects, diseases and fires (792 tables, plus the 27 PDFs) | One table per CSV | 1999 – 2025 | Quebec Ministry of Natural Resources and Forests (MRNF) |
 
 ## The kinds of data you'll find
 

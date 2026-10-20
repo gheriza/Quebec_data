@@ -1,0 +1,82 @@
+"# Tableau 16 – Pourcentage de cônes endommagés et taux moyen de graines affectées selon les sources de semences améliorées, en 1999"
+"# Source: Insectes, maladies et feux dans les forêts du Québec 1999 (Insectes_maladies_feux_1999.md, line 965)"
+"Sourc
+seme","es de
+nces","Unités
+de
+gestion",Ravageurs,"% de côn
+Détection","es affectés
+Évaluation","%
+moyen
+de
+graines"
+,,,,,,affectées
+Escourt,"EPB V1
+EST1",11,"Mouche granivore de l'épinette
+Tordeuse des graines de l'épinette
+Pyrale des cônes du sapin
+Tordeuse verte des cônes","90
+9
+10
+4","3
+68
+17
+11","100
+91
+100
+95"
+Falardeau,"EPB V1
+FAL1",23,"Mouche granivore de l'épinette
+Pyrale des cônes du sapin","64
+4","67
+8","34
+25"
+,,,Petite arpenteuse des cônes de l'épinette,4,13,15
+Aubin de,EPB V1,34,Mouche granivore de l'épinette,58,33,53
+l'Isle,AUB1,,Tordeuse des graines de l'épinette,33,36,62
+,,,Tordeuse verte des cônes,0,11,75
+,,,Petite arpenteuse des cônes de l'épinette,21,8,57
+"Aubin de
+l'Isle","EPB V1
+AUB2",34,"Mouche granivore de l'épinette
+Tordeuse des graines de l'épinette
+Tordeuse verte des cônes","61
+22
+0","29
+23
+18","65
+76
+78"
+,,,Petite arpenteuse des cônes de l'épinette,10,18,72
+Wendover,"EPB V1
+WEV1",41,"Mouche granivore de l'épinette
+Tordeuse des graines de l'épinette
+Tordeuse verte des cônes","54
+12
+0","5
+63
+21","97
+88
+86"
+,,,Petite arpenteuse des cônes de l'épinette,0,4,63
+Beloeil,PIB V1,63,Scolyte des cônes du pin blanc,21,8,93
+,AVE1,,Perce-cône dupin blanc,8,11,23
+Fontbrune,EPB V1,64,Mouche granivore de l'épinette,22,37,45
+,FON1,,Tordeuse des graines de l'épinette,7,22,41
+,,,Pyrale des cônes du sapin,72,20,42
+,,,Tordeuse verte des cônes,9,2,5
+Fontbrune,EPB V1,64,Mouche granivore de l'épinette,46,43,65
+,FON2,,"Tordeuse des graines de l'épinette
+Pyrale des cônes du sapin","0
+56","39
+9","37
+9"
+,,,Tordeuse verte des cônes,6,8,17
+Desroberts,EPB V1,83,Mouche granivore de l'épinette,17,75,71
+,DRO1,,Tordeuse des graines de l'épinette,16,0,0
+,,,Pyrale des cônes du sapin,40,31,18
+,,,Petite arpenteuse des cônes de l'épinette,16,28,16
+Labrosse,EPB V1,91,Mouche granivore de l'épinette,91,75,50
+,LAS1,,Tordeuse des graines de l'épinette,0,13,67
+,,,Pyrale des cônes du sapin,6,0,0
+,,,Petite arpenteuse des cônes de l'épinette,9,12,12

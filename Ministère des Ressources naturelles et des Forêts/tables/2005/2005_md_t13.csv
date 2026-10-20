@@ -1,0 +1,8 @@
+# Tableau 12. Pourcentage des plantations infectées par la rouille-tumeur autonome en 2005
+"# Source: Insectes, maladies et feux dans les forêts du Québec 2005 (Insectes_maladies_feux_2005.md, line 933)"
+Zones,Nivea,ux des do,mmages(,%),Nombre de,Nombre de,Pourcentage de
+d’échantillonnage,Présence^1,Trace,Léger,Modéré,plantations infestées,plantations visitées,plantations infestées
+Érablière,33,50,,17,6,13,46
+Sapinière,42,35,19,4,26,44,59
+Pessière,31,54,15,,13,21,62
+Total,38,42,16,4,45,78,58

@@ -1,0 +1,65 @@
+# Tableau 18. Présence de deux rouilles _Melampsora_ au Québec en 2005
+"# Source: Insectes, maladies et feux dans les forêts du Québec 2005 (Insectes_maladies_feux_2005.md, line 1446)"
+Secteurs infectés,Types de production,"N^osde clone
+PEH^1",Hybrides,Rouille
+Abitibi-Témiscamingue,Pépinière forestière,"1079, 1080, 1081, 1083, 3389",J^2,MMD^3
+Bas-Saint-Laurent,"Pépinière forestière
+Plantation","3729
+505326, 505327, 505372, 505468,
+505508, 750301, 750306, 750315,
+750316
+750306, 750314
+915004, 915005, 915311, 915314,
+915318, 915319, 915320
+915308, 915311, 915318
+916401","N x M
+M x DT
+M x DT
+M x B
+M x B
+DN x M","MLP
+MLP^4
+MMD
+MMD
+MLP
+MLP
+MMD et MLP"
+Capitale-Nationale,Plantation,,,MMD et MLP
+Estrie,Plantation,,,MMD
+Lanaudière,Pépinière forestière,"131
+3225, 3230
+3308, 3565, 3570, 3585, 3586,
+3587, 4813
+3729
+4397
+4813
+915302, 915303, 915311, 915313","D x N
+T x D
+D x N
+N x M
+D x N
+M x B","MMD
+MMD et MLP
+MMD
+MLP
+MMD
+MLP
+MLP"
+Mauricie,"Pépinière forestière
+Plantation","3375
+505508
+915311, 915320, 915508","M X B
+M x DT
+M x B","MMD
+MMD et MLP
+MLP
+MMD"
+Outaouais,Plantation,,,MMD et MLP
+Saguenay-Lac-St-Jean,"Pépinière forestière
+Plantation","3374, 915004
+3389
+3889","M x B
+J","MMD
+MMD
+MMD
+MMD"

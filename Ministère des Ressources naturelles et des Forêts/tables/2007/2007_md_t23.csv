@@ -1,0 +1,25 @@
+# Tableau 20. Nombre de feux de forêt répertoriés et superficies (ha) affectées dans la zone de protection intensive en 2007
+"# Source: Insectes, maladies et feux dans les forêts du Québec 2007 (Insectes_maladies_feux_2007.md, line 1564)"
+,,,,,Cause,s,,,,,
+Périodes,,Foudre,"Chemins
+de fer","Opérations
+forestières","Opérations
+industrielles",Incendiaires,Résidents,Récréation,Autres,Total,%
+Avant mai,"Nombre
+i",,,,8,,24,5,,37,"4,15"
+,Superficie,,,,6,,15,15,,37,"0,01"
+Mai,Nombre,21,5,4,13,8,138,72,4,265,"29,71"
+,Superficie,6612,1825,4942,38,1,233,66704,2,80356,"28,90"
+Juin,Nombre,241,,7,1,1,9,22,1,282,"31,50"
+,Superficie,186871,,2,2,<1,4,10529,<1,197408,"71,00"
+Juillet,Nombre,16,,15,2,,7,20,,60,"6,61"
+,Superficie,13,,19,10,,1,8,,50,"0,02"
+Août,"Nombre
+i",123,4,10,6,1,8,37,3,192,"21,64"
+,Superficie,86,1,2,1,<1,5,25,1,117,"0,04"
+Septembre,Nombre,3,,3,1,,2,16,,25,"2,58"
+,Superficie,4,,<1,<1,,<1,28,,32,"0,01"
+Après,Nombre,0,2,6,2,2,8,11,,31,"3,81"
+septembre,Superficie,<1,<1,11,3,<1,2,16,,32,"0,01"
+Total,Nombre,404,11,45,33,12,195,184,8,892,"100,00"
+,Superficie,193585,1825,4976,59,1,260,77324,3,278033,"100,00"

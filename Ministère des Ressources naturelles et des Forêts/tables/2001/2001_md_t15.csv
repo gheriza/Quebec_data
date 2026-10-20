@@ -1,0 +1,99 @@
+"# Tableau 15 – Pourcentage de cônes et de graines endommagés selon les sources de semences améliorées, en 2001"
+"# Source: Insectes, maladies et feux dans les forêts du Québec 2001 (Insectes_maladies_feux_2001.md, line 886)"
+,,,Déte,ction,Évalu,ation
+"Sources
+de semences","Unités
+de
+gestion",Ravageurs,"%
+de cônes
+affectés","%
+moyen de
+graines
+affectées","%
+de cônes
+affectés","%
+moyen de
+graines
+affectées"
+"Robidoux
+EPB V1 R0B1",111,"Mouche granivore de l’épinette
+Tordeuse des graines de l’épinette","42
+11","14
+26",,
+"Romieu
+EPB V1 ROM1",112,Mouche granivore de l’épinette,77,62,,
+"Escourt
+EPB V1 EST1",11,"Mouche granivore de l’épinette
+Tordeuse des graines de l’épinette
+Pyrale des cônes du sapin",95,77,"88
+13
+5","64
+58
+10"
+"Station forestière
+de Duchesnay
+EPB V1 SFD1",31,"Mouche granivore de l’épinette
+Tordeuse des graines de l’épinette
+Pyrale des cônes du sapin","70
+23
+5","49
+41
+5","78
+10
+5","36
+41
+40"
+"Lac des Marais
+EPB V1 LDM1",33,"Mouche granivore de l’épinette
+Tordeuse des graines de l’épinette
+Perce-cône du pin blanc","63
+13
+12","58
+51
+13","64
+1","55
+50"
+"Arboretum
+de Verchère
+PIB V1 AVE1",63,"Scolyte des cônes du pin blanc
+Perce-cône du pin blanc
+Pyrale des cônes du sapin","52
+26","89
+45","54
+28
+9","89
+46
+38"
+"Arboretum
+de Verchère
+PIR V1 AVE1",63,"Scolyte des cônes du pin rouge
+Perce-cône du pin rouge
+Pyrale des cônes du sapin","3
+43
+5","100
+32
+66","26
+8
+9","70
+29
+25"
+"Huddersfield
+PIB V1 HUD1",71,"Scolyte des cônes du pin blanc
+Perce-cône du pin blanc","13
+5","81
+26",,
+"Labrosse
+EPB V1 LAS1",91,"Mouche granivore de l’épinette
+Tordeuse des graines de l’épinette
+Pyrale des cônes du sapin
+Petite arpenteuse des cônes de l’épinette","71
+24
+9","69
+55
+11","81
+5
+8
+11","51
+60
+27
+19"

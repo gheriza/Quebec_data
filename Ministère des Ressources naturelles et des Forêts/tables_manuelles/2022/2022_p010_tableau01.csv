@@ -1,0 +1,7 @@
+# Tableau 1. Nombre de plantations visitées selon les essences dans chaque domaine bioclimatique en 2022
+# Source: Insectes, maladies et feux dans les forêts du Québec en 2022, page 10 du PDF (image du tableau transcrite manuellement; totaux des lignes et des colonnes vérifiés)
+Domaine bioclimatique,Épinette blanche,Épinette noire,Épinette de Norvège,Épinette rouge,Pin blanc,Pin gris,Pin rouge,Mélèze hybride,Mélèze japonais,Mélèze laricin,Érable à sucre,Noyer noir,Peuplier hybride,Frêne de Pensylvanie,Frêne d'Amérique,Chêne rouge,Thuya occidental,Total
+Érablière,23,9,2,4,27,8,37,0,1,5,1,2,0,0,2,2,0,123
+Sapinière,68,53,10,1,15,42,12,2,1,6,1,0,1,4,0,0,2,218
+Pessière,4,12,0,0,0,10,0,0,0,1,0,0,0,0,0,0,0,27
+Total,95,74,12,5,42,60,49,2,2,12,2,2,1,4,2,2,2,368

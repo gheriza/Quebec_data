@@ -1,0 +1,11 @@
+# Tableau 5. Nombre de plantations visitées et pourcentage de plants observés dans les zones d’échantillonnage en 2007
+"# Source: Insectes, maladies et feux dans les forêts du Québec 2007 (Insectes_maladies_feux_2007.md, line 723)"
+Zones,Nombre de,Nombre de,,,Pource,ntage d,eplants,obser,vés sel,on les,essenc,es,,Total des
+d’échantillonnage,"plantations
+visitées","plantations
+évaluées",EPB,EPN,EPO,EPR,MEH,MEL,MEU,PIB,PIG,PIR,PEH,"plants
+observés"
+Érablière,153,95,16,11,8,4,1,3,2,21,2,12,20,15 500
+Sapinière,152,127,16,22,3,1,2,3,0,11,37,1,4,30 100
+Pessière,97,89,6,52,0,0,0,0,0,0,42,0,0,26 800
+TOTAL,402,311,12,30,3,1,1,2,1,9,32,3,6,72 400

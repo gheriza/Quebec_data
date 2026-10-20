@@ -1,0 +1,19 @@
+# Tableau 1. Nombre de plantations visitées selon les essences dans chaque domaine bioclimatique en 2019
+"# Source: Insectes, maladies et feux dans les forêts du Québec 2019 (Bilan_2019_Insectes_maladies_feux_foret_Quebec.md, line 166)"
+Domaine,,,,,,,,,Essence,s,,,,,,
+bioclimatique,blanche,"Ép
+noire","inette
+de Norvège",rouge,blanc,"Pin
+gris","rouge
+~~e~~",hybride,"Mélèze
+japonais",laricin,"Thuya
+occidental","Érable
+à sucre","Noyer
+noir","Peuplier
+hybride","Frêne
+d'Amérique",^Total
+Érablière,29,13,3,4,25,7,43,0,1,3,0,1,2,1,1,133
+Sapinière,64,55,13,1,19,45,11,3,1,5,1,1,0,4,0,223
+Pessière,6,15,0,0,0,12,0,0,0,2,0,0,0,0,0,35
+Total,"99
+~~Po~~",83,16,5,44,64,54,3,2,10,1,2,2,5,1,391

@@ -1,0 +1,27 @@
+# Tableau 2. Nombre de plantations visitées selon les essences dans chaque domaine bioclimatique en 2013
+"# Source: Insectes, maladies et feux dans les forêts du Québec 2013 (bilan-2013-p.md, line 653)"
+,,,,,,,,Ess,ence,,,,,,,,
+"Domaine
+bioclimatique","Épinette
+blanche","Épinette
+noire","Épinette
+de
+Norvège","Épinette
+rouge","Pin
+blanc","Pin
+gris","Pin
+rouge","Mélèze
+hybride","Mélèze
+japonais","Mélèze
+laricin","Mélèze
+européen","Érable
+à
+sucre","Noyer
+noir","Peuplier
+hybride","Chêne
+rouge","Frêne
+d’Amérique",Total
+Érablière,29,14,8,7,16,5,31,1,1,5,3,2,2,9,0,2,135
+Sapinière,43,38,7,2,12,48,3,5,1,8,0,1,0,12,1,0,181
+Pessière,8,26,0,0,0,25,0,0,0,0,0,0,0,0,0,0,59
+Total,80,78,15,9,28,78,34,6,2,13,3,3,2,21,1,2,375

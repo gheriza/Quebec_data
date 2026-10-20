@@ -1,0 +1,50 @@
+# Tableau 16. Pourcentage de cônes et de fruits affectés et pourcentage de graines endommagées selon les sources de semences améliorées en 2006
+"# Source: Insectes, maladies et feux dans les forêts du Québec 2006 (Insectes_maladies_feux_2006.md, line 1316)"
+Sources de semences d’épinettes,Unités de,% cône,s affectés(% moyen degraines affectées),
+,gestion,Mouchegranivore de l’épinett,"e
+Tordeuse desgraines de l’épinette",Rouille
+"Robidoux *
+EPB-V1-ROB-1",111,1 (10),6 (12),36
+"Romieu *
+EPB-V1-ROM-1",112,,,17
+Escourt,11,,,
+EPB-V1-EST-1 *,,7 (30),2 (8),22
+EPB-V3-EST-2,,5(28),1(10),40
+"Pépinière de Sainte-Luce *
+EPB-V2-PLU-1",12,11 (35),3 (35),21
+"Falardeau *
+EPB-V1-FAL-1",21,3 (53),,38
+"Station forestière de Duchesnay
+EPB-V1-SFD-1",31,7 (39),11 (19),45
+"Aubin-de-l’Ile *
+EPB-V1-AUB-3",34,7 (31),,66
+"Wendover
+EPB-V1-WEV-2",41,9 (52),5 (9),2
+"Pépinière de Berthierville *
+EPB-V2-PBE-1",62,4 (45),,
+"Fontbrune
+EPB-V1-FON-1
+EPB-V1-FON-2 *",64,"39 (34)
+29(58)",,"15
+37"
+"Baby *
+EPB-V1-DRO-1",81,7 (51),1 (10),11
+"Desroberts *
+EPB-V1-DRO-1",83,16 (43),23 (24),5
+,Unités de,% cône,s affectés(% moyen degraines affectées),
+Sources de semences de pins,gestion,"Perce-cône du
+pin blanc /pin rouge","Scolyte des cônes du
+pin blanc /pin rouge",Pyrales
+"Arboretum de Verchère
+PIR-V1-AVE-1",63,14 (51),3 (100),45 (67)
+"Dorion
+PIB-V1-DOR-1",73,3 (10),4 (46),
+,Unités de,% cône,s affectés(% moyen degraines affectées),
+Sources de semences de mélèzes,gestion,Mouches granivores,Chalcis séminivore du mélèze,"Cécidomyie des
+graines des cônes"
+"Remigny
+MEL-V1-REM-1",82,21 (62),4 (10),52 (20)
+Source de semences de feuillus,Unité de,% de,grappes affectées (% akènes affectées),
+,gestion,Charançon,Cécidomyie,
+"Saint-Ours
+FRA-V1-SOU-1",63,83 (20),14 (1),

@@ -1,0 +1,39 @@
+# Tableau 6. Nombre de lots affectés par les principaux ravageurs et nombre de plants rejetés (x 1 000) lors des inspections de certification en 2009
+"# Source: Insectes, maladies et feux dans les forêts du Québec 2009 (Insectes_maladies_feux_2009.md, line 769)"
+Ravageurs,01,02,03,04,"R
+07","égions adm
+08","inistrat
+09","ives
+11",12,14,15,17,Total
+Brûlures des pousses et chancres,,,,,,,,,,,,,
+Nombre de pépinières,3,3,1,2,1,1,1,2,0,1,2,0,17
+Nombre de lots,9,12,2,9,1,1,3,2,0,3,3,0,45
+Nombre de plants rejetés,x,x,x,x,x,x,x,x,0,1,x,0,1
+Charançon de la racine du fraisier,,,,,,,,,,,,,
+Charançon noir de la vigne,,,,,,,,,,,,,
+Nombre de pépinières,2,0,0,1,0,0,0,0,1,0,0,0,4
+Nombre de lots,8,0,0,1,0,0,0,0,1,0,0,0,10
+Nombre de plants rejetés,0,0,0,0,0,0,0,0,3,0,0,0,3
+Moisissures,,,,,,,,,,,,,
+Nombre de pépinières,4,3,2,2,1,3,1,2,1,1,2,1,23
+Nombre de lots,51,7,22,37,4,28,1,16,8,16,11,18,219
+Nombre de plants rejetés,x,x,x,110,53,152,x,x,x,x,x,x,315
+Moisissures de plants entreposés,,,,,,,,,,,,,
+Nombre de pépinières,1,1,-----,1,-----,1,-----,-----,-----,1,-----,-----,5
+Nombre de lots,1,20,-----,9,-----,21,-----,-----,-----,18,-----,-----,69
+Nombre de plants rejetés,"0,3","18,5",-----,x,-----,x,-----,-----,-----,"0,9",-----,-----,"19,7"
+Pourriture des racines et,,,,,,,,,,,,,
+nécrose au collet,,,,,,,,,,,,,
+Nombre de pépinières,3,3,2,2,1,1,0,2,1,1,0,2,18
+Nombre de lots,66,4,1,12,0,2,8,4,1,0,0,2,100
+Nombre de plants rejetés,"43,6",x,x,"13,6",0,"5,5",x,0,x,0,0,x,"62,7"
+Punaise terne,,,,,,,,,,,,,
+Nombre de pépinières,2,1,0,2,1,1,0,1,0,1,0,0,9
+Nombre de lots,3,1,0,6,3,1,0,2,0,7,0,0,23
+Nombre de plants rejetés,0,0,0,0,0,0,0,0,0,0,0,0,0
+Rongeurs,,,,,,,,,,,,,
+Nombre de pépinières,0,1,0,1,1,0,0,0,0,0,1,0,4
+Nombre de lots,0,2,0,2,3,0,0,0,0,0,4,0,11
+Nombre de plants rejetés,0,"33,6",0,"1,7","2,6",0,0,0,0,0,"8,1",0,46
+Nombre total de plants rejetés,"43,9","52,1",0,"125,3","55,6","157,5",0,0,3,"3,5","8,1",0,449
+Nombre de pépinières visitées,5,4,3,2,1,3,1,2,1,1,2,1,26

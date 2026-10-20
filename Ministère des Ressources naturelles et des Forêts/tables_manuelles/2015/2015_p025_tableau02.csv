@@ -1,0 +1,7 @@
+# Tableau 2. Nombre de plantations visitées selon les essences dans chaque domaine bioclimatique en 2015
+# Source: Insectes, maladies et feux dans les forêts du Québec 2015, page 25 du PDF (image du tableau transcrite manuellement; totaux des lignes et des colonnes vérifiés)
+Domaine bioclimatique,Épinette blanche,Épinette noire,Épinette de Norvège,Épinette rouge,Pin blanc,Pin gris,Pin rouge,Mélèze hybride,Mélèze japonais,Mélèze laricin,Mélèze européen,Érable à sucre,Noyer noir,Noyer cendré,Peuplier hybride,Chêne rouge,Frêne d'Amérique,Total
+Érablière,26,13,4,5,19,4,29,1,1,4,1,1,2,1,4,0,2,117
+Sapinière,52,45,10,1,13,51,5,4,1,6,0,1,0,0,9,1,0,199
+Pessière,7,25,0,0,0,24,0,0,0,0,0,0,0,0,0,0,0,56
+Total,85,83,14,6,32,79,34,5,2,10,1,2,2,1,13,1,2,372

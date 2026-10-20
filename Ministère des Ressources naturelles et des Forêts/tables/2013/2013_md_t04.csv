@@ -1,0 +1,17 @@
+# Tableau 3. Répartition des lots de plants inspectés en fonction des essences en 2013
+"# Source: Insectes, maladies et feux dans les forêts du Québec 2013 (bilan-2013-p.md, line 768)"
+Essence,Nombre de lots,"Nombre de plants
+(millions)"
+Épinette noire,264,"81,9"
+Épinette blanche,194,"23,0"
+Pingris,87,"26,4"
+Pin blanc,42,"2,4"
+Mélèze,38,"2,8"
+Autres résineux^1,75,"4,2"
+Peuplier hybride,50,"0,9"
+Chêne rouge,12,"0,8"
+Érable à sucre,12,"0,7"
+Bouleaujaune,8,"0,4"
+Autres feuillus nobles^2,58,"1,4"
+Autres feuillus^3,12,"0,8"
+Total,852,"145,7"

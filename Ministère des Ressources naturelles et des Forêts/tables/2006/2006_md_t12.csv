@@ -1,0 +1,12 @@
+# Tableau 11. Répartition des plantations affectées par le nodulier du pin gris dans les zones d’échantillonnage en 2006
+"# Source: Insectes, maladies et feux dans les forêts du Québec 2006 (Insectes_maladies_feux_2006.md, line 935)"
+"Zones
+’",,Niveaux d,es domma,ges(%),,"Nombre de
+plantations","Nombre de
+plantations","Pourcentage de
+plantations"
+déchantillonnage,Présence^1,Trace,Léger,Modéré,Grave,infestées,visitées,infestées
+Érablière,50,,,50,,2,6,33
+Sapinière,17,24,7,38,14,29,45,64
+Pessière,6,22,22,34,16,32,48,67
+Total,13,22,14,37,14,63,99,64

@@ -1,0 +1,15 @@
+# Tableau 11. Pourcentage des plantations d’épinettes et de pins infectés par la carie des racines en 2005
+"# Source: Insectes, maladies et feux dans les forêts du Québec 2005 (Insectes_maladies_feux_2005.md, line 908)"
+Zones,Stt,Niveau,x des domm,ages(%),Nombre de,Nombre de,Pourcentage de
+d’échantillonnage,rae,Trace,Léger,Modéré,plantations infestées,plantations visitées,plantations infestées
+Ébliè,Épinettes,100,,,1,59,2
+rare,Pins,,,,0,53,0
+Total érablière,,100,,,1,112,1
+Sainière,Épinettes,87,,13,8,73,11
+p,Pins,100,,,12,57,21
+Total sapinière,,95,,5,20,130,15
+Piè,Épinettes,87,13,,8,28,29
+essre,Pins,87,13,,8,21,38
+Totalpessière,,87,13,,16,49,33
+Total épinettes,,88,6,6,17,160,11
+Totalpins,,95,5,,20,131,15

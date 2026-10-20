@@ -1,0 +1,17 @@
+"# Source: Insectes, maladies et feux dans les forêts du Québec 2022 (RA_2022_DPF.md, line 1898)"
+,,Plantations,atteintes,,É,chelle de dommag,e,
+Essence,"Plantations
+visitées",Nombre,%,"Présence
+0 %","Trace
+0,1 à 5 %","Léger
+5,1 à 25 %","Modéré
+25,1 à 75 %","Élevé
+75,1 + %"
+Épinette blanche,95,3,3,1,1,1,0,0
+Épinette noire,74,4,5,3,0,1,0,0
+Épinette rouge,5,2,40,1,1,0,0,0
+Pin blanc,42,19,45,11,6,0,2,0
+Pingris,60,24,40,18,2,4,0,0
+Pin rouge,49,23,47,13,6,2,2,0
+Thuya,2,1,50,1,0,0,0,0
+Total,327,76,23,48,16,8,4,0

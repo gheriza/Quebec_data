@@ -1,0 +1,13 @@
+"# Source: Insectes, maladies et feux dans les forêts du Québec 2021 (RA_2021_DPF.md, line 2137)"
+Types de,combustibles forestiers,,
+AU,"Terrain agricole, urbain, etc.",EA,"Eau, lac, rivière, etc."
+C1,Pessière à lichens,BR,Brûlis
+C2,Pessière boréale,M1,Forêt boréale mixte sans feuilles
+C3,Pins gris ou pins tordus à maturité,M2,Forêt boréale mixte avec feuilles
+C4,Jeunes pins gris ou pins tordus,M3,"Forêt mixte à sapins baumiers morts, sans feuilles"
+C5,Pins rouges ou pins blancs,M4,"Forêt mixte à sapins baumiers morts, avec feuilles"
+C6,Plantation de conifères,S1,Rémanents de pins gris ou de pins tordus
+C7,Pins ponderosas et Douglas taxifoliés,S2,Rémanents d’épinettes blanches et de sapins baumiers
+D1,Peuplier faux-tremble sans feuilles,S3,"Rémanents de thuyas, de pruches et de Douglas côtiers"
+DH,Dénudé humide,O1A,Herbes mortes aplaties
+DS,Dénudé sec,O1B,Herbes mortes sur pied

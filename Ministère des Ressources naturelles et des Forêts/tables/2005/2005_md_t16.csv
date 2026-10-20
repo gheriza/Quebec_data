@@ -1,0 +1,15 @@
+# Tableau 14. Nombre de plants rejetés lors des inspections de certification en 2005 (x 1 000)
+"# Source: Insectes, maladies et feux dans les forêts du Québec 2005 (Insectes_maladies_feux_2005.md, line 1127)"
+Causes de dégâts,01,02,03,04,"Régio
+07","ns ad
+08","ministr
+09","atives
+11",12,14,15,17,Total
+Brûlure despousses,0,X,X,X,0,X,X,0,0,0,0,0,X
+Chancre scléroderrien,0,X,0,0,0,X,s.o.^1,s.o.^1,s.o.^1,0,0,0,X
+Glace,,,,19,0,,0,0,7,1,,0,27
+Moisissures,X,1,X,X,X,7,X,2,X,X,X,X,10
+Moisissure desplants entreposés,XX,XX,s.o.^2,1,s.o.^2,0,s.o.^2,s.o.^2,s.o.^2,4,s.o.^2,s.o.^2,5
+Pourriture des racines,15,22,X,X,0,X,0,0,10,2,0,0,49
+Punaise terne,X,X,0,X,0,X,0,X,X,X,X,X,X
+Total,15,23,0,20,0,7,0,2,17,7,0,0,91

@@ -1,0 +1,13 @@
+"# Source: Insectes, maladies et feux dans les forêts du Québec 2016 (bilan2016-p.md, line 1028)"
+Type,s de combustibles forestiers,
+AU,"Terrain agricole, urbain, etc.","EAEau, lac, rivière, etc."
+C1,Pessière à lichens,BRBrûlé
+C2,Pessière boréale,M1Forêt boréale mixte sans feuilles
+C3,Pins gris ou pins tordus à maturité,M2Forêt boréale mixte avec feuilles
+C4,Jeunes pins gris ou pins tordus,"M3Forêt mixte à sapins baumiers morts, sans feuilles"
+C5,Pins rouges et pins blancs,"M4Forêt mixte à sapins baumiers morts, avec feuilles"
+C6,Plantation de conifères,S1Rémanents de pins gris ou pins tordus
+C7,Pins ponderosas et de Douglas taxifoliés,S2Rémanents d’épinettes blanches et de sapins baumiers
+D1,Peuplier faux-tremble sans feuilles,"S3Rémanents de thuyas, pruches et douglas côtiers"
+DH,Dénudé humide,O1AHerbes mortes aplaties
+DS,Dénudé sec,O1BHerbes mortes sur pied

@@ -1,0 +1,18 @@
+# Tableau 10. Répartition des plantations affectées par le charançon du pin blanc dans les zones d’échantillonnage en 2006
+"# Source: Insectes, maladies et feux dans les forêts du Québec 2006 (Insectes_maladies_feux_2006.md, line 893)"
+Z,,Niveaux,des domma,ges(%),Nombre de,Nombre de,Pourcentage de
+"ones
+d’échantillonnage",Strates,Présence^1,Trace,Léger,"plantations
+infestées","plantations
+visitées","plantations
+infestées"
+Érablière,Épinettes,6,59,35,17,59,29
+,Pins,,33,67,6,52,12
+Total érablière,,4,53,43,23,111,21
+Sapinière,Épinettes,9,36,55,11,71,15
+,Pins,12,44,44,9,60,15
+Total sapinière,,10,40,50,20,131,15
+Pessière,Épinettes,,57,43,7,67,10
+,Pins,,,,0,48,0
+Totalpessière,,,57,43,7,115,6
+TOTAL GÉNÉRAL,,6,48,46,50,357,14

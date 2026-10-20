@@ -1,0 +1,10 @@
+# Tableau 1. Nombre de plantations visitées selon les essences dans chaque domaine bioclimatique en 2020
+"# Source: Insectes, maladies et feux dans les forêts du Québec 2020 (RA_insectes_maladies_feux_2020_BR_MFFP.md, line 171)"
+"Domaine
+bioclimatique",,Ép,inette,,,Pin,,,"Essence
+Mélèze",s,Érable,Noyer,Peuplier,Frêne de,Frêne,^Total
+,blanche,noire,de Norvège,rouge,blanc,gris,rouge,hybride,japonais,laricin,à sucre,noir,hybride,Pensylvanie,d'Amérique,
+Érablière,29,11,3,3,22,8,32,0,1,4,1,2,1,0,2,119
+Sapinière,61,49,13,1,17,42,8,2,1,5,1,0,1,2,0,203
+Pessière,6,9,0,0,0,7,0,0,0,1,0,0,0,0,0,23
+Total,96,69,16,4,39,57,40,2,2,10,2,2,2,2,2,345

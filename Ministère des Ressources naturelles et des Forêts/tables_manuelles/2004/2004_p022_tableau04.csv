@@ -1,0 +1,20 @@
+# Tableau 4. Nombre de plantations visitées et pourcentage de plants observés selon les essences dans chacune des régions administratives en 2004
+# Source: Insectes, maladies et feux dans les forêts québécoises en 2004, page 22 (image du tableau transcrite manuellement; totaux et pourcentages vérifiés)
+# EPB = épinette blanche, EPN = épinette noire, EPO = épinette de Norvège, EPR = épinette rouge (% des plants observés selon les essences évaluées)
+No région,Région administrative,Nombre de plantations visitées,Nombre de plantations évaluées,EPB (%),EPN (%),EPO (%),EPR (%),Nombre de plants observés
+01,Bas-Saint-Laurent,64,48,38,45,11,6,11000
+02,Saguenay–Lac-Saint-Jean,67,50,19,81,0,0,16000
+03,Capitale-Nationale,26,14,55,25,5,15,4400
+04,Mauricie,34,26,20,63,12,5,8000
+05,Estrie,24,18,46,19,23,12,2600
+07,Outaouais,16,16,57,30,13,0,2300
+08,Abitibi-Témiscamingue,43,39,26,74,0,0,9300
+09,Côte-Nord,33,31,21,73,6,0,11100
+10,Nord-du-Québec,21,16,5,95,0,0,5900
+11,Gaspésie–Îles-de-la-Madeleine,47,42,45,38,16,1,14500
+12,Chaudière-Appalaches,42,25,54,10,14,22,4100
+14,Lanaudière,12,10,28,33,28,11,1800
+15,Laurentides,14,11,52,36,3,9,3300
+16,Montérégie,11,6,55,9,27,9,1100
+17,Centre-du-Québec,8,7,63,25,0,12,800
+,Total,462,359,32,56,8,4,96200

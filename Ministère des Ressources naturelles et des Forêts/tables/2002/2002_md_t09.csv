@@ -1,0 +1,29 @@
+"# Tableau 9 - Niveaux de dommages causés par la gelure printanière dans les plantations d’épinettes, en 2002"
+"# Source: Insectes, maladies et feux dans les forêts du Québec 2002 (Insectes_maladies_feux_2002.md, line 585)"
+R,égions administratives,"Nombre
+de
+plantations
+atteintes","Nombre
+de
+plantations
+visitées","Plantations
+atteintes
+(%)","Trace
+à
+léger",%,Modéré,%
+01,Bas-Saint-Laurent,14,84,"16,6",12,"85,7",2,"14,3"
+02,Saguenay–Lac-Saint-Jean,30,66,"45,4",29,"96,7",1,"3,3"
+03,Capitale-Nationale,0,22,0,0,0,0,0
+04,Mauricie,4,32,"12,5",4,100,0,0
+05,Estrie,8,32,25,8,100,0,0
+07,Outaouais,33,33,100,32,97,1,3
+08,Abitibi-Témiscamingue,14,46,"30,4",14,100,0,0
+09,Côte-Nord,3,30,10,3,100,0,0
+10,Nord-du-Québec,4,16,25,4,100,0,0
+11,Gaspésie–Îles-de-la-Madeleine,8,59,"13,5",8,100,0,0
+12,Chaudière-Appalaches,18,64,"28,1",18,100,0,0
+14,Lanaudière,4,14,"28,5",4,100,0,0
+15,Laurentides,2,15,"13,3",2,100,0,0
+16,Montérégie,2,14,"14,2",2,100,0,0
+17,Centre-du-Québec,8,16,50,7,"87,5",1,"12,5"
+Tot,al,152,543,"27,9",147,"96,7",5,"3,3"

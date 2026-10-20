@@ -1,0 +1,18 @@
+# Tableau 8. Classes utilisées pour la caractérisation des patrons de brûlage des feux de plus de 500 ha.
+"# Source: Insectes, maladies et feux dans les forêts du Québec 2011 (bilan2011.md, line 1167)"
+CLASSE,DESCRIPTION,TYPE DE FEU
+VERT,"Le feu ne s’est pas propagé à cet endroit (îlot non brûlé) à
+l’intérieur du périmètre de feu.",Pas de feu.
+AFFECTÉ,"Le feu s’est propagé au sol et a brûlé, en tout ou en partie,
+la végétation de surface ou la matière organique. En peu-
+plement forestier, moins de la moitié des cimes d’arbres est
+affectée (roussies ou carbonisées).",
+ROUSSI,"Le feu s’est propagé sur cette superficie. Plus de la moi-
+tié des cimes d’arbres a été partiellement ou entièrement
+affectée (roussies ou carbonisées) et pour la majorité de ces
+arbres, les cimes sont roussies.",
+CARBONISÉ,"Le feu s’est propagé sur cette superficie. Plus de la moitié
+des cimes d’arbres a été partiellement ou entièrement affec-
+tée par le feu (roussies ou carbonisées). Le feu a consumé
+le feuillage et noirci la tige (carbonisé) pour la majorité de
+ces arbres.",

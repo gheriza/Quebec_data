@@ -13,3 +13,6 @@ __pycache__/
 
 # Original Hansen tiles: download from the source (see 2_forest/README.md)
 2_forest/forest_cover_change_hansen/raw_geotiff_tiles/
+
+# Superseded plain-text Markdown conversions (kept locally only)
+Ministère des Ressources naturelles et des Forêts/rapports_md/_ancienne_conversion/

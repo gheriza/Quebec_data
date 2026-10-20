@@ -1,0 +1,10 @@
+# Tableau 11. Pertes de plants non quantifiées et liées aux agents abiotiques en 2004
+# Source: Insectes, maladies et feux dans les forêts québécoises en 2004, page 32 (image du tableau transcrite manuellement)
+# ● = perte présente, non quantifiée par la DCF; vide = rien de signalé
+Cause de dégâts,01,02,03,04,07,08,09,11,12,14,15,17
+Dessiccation hivernale,●,,●,●,●,●,,●,●,●,●,
+Excès d'eau,●,●,,,●,●,,,,,,
+Gel racinaire,●,●,●,●,●,●,●,,●,,●,●
+Gelure automnale ou hivernale,●,●,●,●,●,●,●,●,●,●,●,
+Gelure printanière,●,●,,●,,●,,●,,,●,
+Neige,●,●,●,●,,●,●,,,●,●,●

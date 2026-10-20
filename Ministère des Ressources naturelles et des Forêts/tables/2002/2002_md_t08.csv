@@ -1,0 +1,19 @@
+"# Tableau 8 - Pourcentage des plantations d’épinettes noires infectées par la carie des racines, en 2002"
+"# Source: Insectes, maladies et feux dans les forêts du Québec 2002 (Insectes_maladies_feux_2002.md, line 558)"
+,Régions administratives,Pourcentage de plantati,ons infectées en 2002
+01,Gaspésie–Îles-de-la-Madeleine,"16,6",(36)^1
+02,Saguenay–Lac-Saint-Jean,"48,9",(47)
+03,Capitale-Nationale,25,(8)
+04,Mauricie,"55,5",(18)
+05,Estrie,0,(6)
+07,Outaouais,0,(13)
+08,Abitibi-Témiscamingue,40,(25)
+09,Côte-Nord,"11,1",(18)
+10,Nord-du-Québec,"26,6",(15)
+11,Bas-Saint-Laurent,40,(25)
+12,Chaudière-Appalaches,"8,3",(12)
+14,Lanaudière,0,(5)
+15,Laurentides,0,(3)
+16,Montérégie,0,(4)
+17,Centre-du-Québec,0,(2)
+Tot,al,"28,6",(237)

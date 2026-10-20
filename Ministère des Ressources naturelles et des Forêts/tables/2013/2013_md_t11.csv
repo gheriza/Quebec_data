@@ -1,0 +1,51 @@
+# Tableau 9. Pourcentage des superfi cies brûlées selon les classes de caractérisation des patrons de brûlage pour les feux caractérisés en 2013
+"# Source: Insectes, maladies et feux dans les forêts du Québec 2013 (bilan-2013-p.md, line 1437)"
+"CLASSE DE
+CARACTÉRISATION DES
+PATRONS DE BRÛLAGE",VERT,AFFECTÉ,ROUSSI,CARBONISÉ
+"Année
+Numéro du feu",%,%,%,%
+231,"5,6","30,7","38,3","25,4"
+312,"4,1","54,7","28,8","12,4"
+319,"11,2","38,8","29,3","20,7"
+"2013
+332","0,7","17,5","9,9","71,9"
+350,"1,6","46,2","23,3","28,9"
+383,"4,1","50,7","26,2","19,0"
+388,"4,0","50,6","11,0","34,4"
+417,"9,5","52,4","25,2","12,9"
+Moyenne,"5,3","46,2","19,7","28,8"
+TYPE DE FEU,Pas de feu.,,,
+DESCRIPTION,"Le feu ne s’est pas
+propagé à cet endroit
+(îlot non brûlé) à l’in-
+térieur du périmètre
+de feu.","Le feu s’est propagé
+au sol et a brûlé, en
+tout ou en partie, la
+végétation de surface
+ou la matière orga-
+nique. En peuplement
+forestier, moins de
+la moitié des cimes
+d’arbres est affectée
+(roussie ou carboni-
+sée).","Le feu s’est propagé
+sur cette superfi cie.
+Plus de la moitié des
+cimes d’arbres est
+affectée (roussie ou
+carbonisée) et pour
+la majorité de ces
+arbres, les cimes sont
+roussies.","Le feu s’est propagé
+sur cette superfi cie.
+Plus de la moitié
+des cimes d’arbres
+est affectée par le
+feu (roussie ou car-
+bonisée). Le feu a
+consumé le feuillage
+et noirci la tige (carbo-
+nisée) pour la majorité
+de ces arbres."

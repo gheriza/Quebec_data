@@ -1,0 +1,17 @@
+# Tableau 8. Répartition des plantations de pins et d’épinettes du réseau de surveillance dans les trois zones d’échantillonnage en 2006
+"# Source: Insectes, maladies et feux dans les forêts du Québec 2006 (Insectes_maladies_feux_2006.md, line 833)"
+’,’,Stra,te,
+Zone déchantillonnage,Classes dâge,Épinettes,Pins,Total
+Érablière,0 à 5 ans,3,1,4
+,6 à 20 ans,46,38,84
+,21 ans etplus,10,13,23
+Total érablière,,59,52,111
+Sapinière,0 à 5 ans,6,7,13
+,6 à 20 ans,56,38,94
+,21 ans etplus,9,15,24
+Total sapinière,,71,60,131
+Pessière,0 à 5 ans,17,6,23
+,6 à 20 ans,50,41,91
+,21 ans etplus,,1,1
+Totalpessière,,67,48,115
+TOTAL,,197,160,357

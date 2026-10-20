@@ -1,0 +1,163 @@
+"# Tableau 12 - Pourcentage de cônes et de graines endommagés selon les sources de semences améliorées, en 2002"
+"# Source: Insectes, maladies et feux dans les forêts du Québec 2002 (Insectes_maladies_feux_2002.md, line 752)"
+"Sources
+de
+semences","Unités
+de
+gestion",Ravageurs,"%
+de cônes
+affectés
+Déte","% moyen
+de
+graines
+affectées
+ction","%
+de cônes
+affectés
+Évalu","% moyen
+de
+graines
+affectées
+ation"
+"Robidoux
+EPB-V1-R0B-1",111,"Mouche granivore de l’épinette
+Tordeuse des graines de l’épinette
+Petite arpenteuse des cônes de l’épinette
+Rouille","74
+24",56,"58,7
+17,3
+16","40,7
+17,7
+14,4"
+"Romieu
+EPB-V1-ROM-1",112,"Mouche granivore de l’épinette
+Petite arpenteuse des cônes de l’épinette
+Rouille","68
+8
+9","46,4
+6,25",,
+"Escourt
+EPB-V1-EST-1",11,"Mouche granivore de l’épinette
+Tordeuse des graines de l’épinette
+Petite arpenteuse des cônes de l’épinette
+Rouille","96
+2
+44","74,5
+5","88
+12
+18,7","46,1
+37,2
+8,6"
+"Falardeau
+EPB-VI-FAL-1",21,"Mouche granivore de l’épinette
+Petite arpenteuse des cônes de l’épinette
+Rouille","88
+2
+14","39
+10",,
+"Station forestière
+de Duchesnay
+EPB-V1-SFD-1",31,"Mouche granivore de l’épinette
+Tordeuse des graines de l’épinette
+Petite arpenteuse des cônes de l’épinette
+Rouille","45
+3
+2
+56","37,8
+30
+5",,
+"Lac des Marais
+EPB-V1-LDM-1",33,"Mouche granivore de l’épinette
+Tordeuse des graines de l’épinette
+Rouille","95
+5
+31","85
+20",,
+"Aubin de l’Isle
+EPB-V1-AUB-1",34,"Mouche granivore de l’épinette
+Tordeuse des graines de l’épinette
+Petite arpenteuse des cônes de l’épinette
+Rouille","88
+39",25,"78,7
+8
+9,3","46
+43,3
+10"
+"Aubin de l’Isle
+EPB-V1-AUB-2",34,"Mouche granivore de l’épinette
+Tordeuse des graines de l’épinette
+Petite arpenteuse des cônes de l’épinette
+Rouille","96
+20","24,5","86,7
+10,7
+12","41,7
+11,9
+12,7"
+"Aubin de l’Isle
+EPB-V1-AUB-3",34,"Mouche granivore de l’épinette
+Tordeuse des graines de l’épinette
+Petite arpenteuse des cônes de l’épinette",90,27,"85,3
+4
+20","41,6
+6,7
+9,3"
+Wendover,41,Mouche granivore de l’épinette,52,"27,5","51,4","38,2"
+EPB-V1-WEV-1,,Tordeuse desgraines de l’épinette,1,5,,
+Wendover,41,Mouche ranivore de l’éinette,54,30,,
+EPB-V1-WEV-2,,"g p
+Tordeuse des graines de l’épinette
+Petite arpenteuse des cônes de l’épinette","1
+2","5
+5",,
+"Cleveland
+EPB-V1-CLE-1",51,"Mouche granivore de l’épinette
+Tordeuse des graines de l’épinette
+Petite arpenteuse des cônes de l’épinette","73
+10
+6","43,5
+20
+5","60,8
+31,4
+4,9","52
+34,1
+8"
+,,Cécidomyie des cônes de l’épinette,,,"8,8","6,1"
+Arboretum de,63,Scolyte des cônes du pin blanc,56,55,36,82
+"Verchère
+PIB-V1-AVE-1",,Perce-cône du pin blanc,,,"49,3","55,2"
+"Fontbrune
+EPB-V1-FON-1",64,"Mouche granivore de l’épinette
+Tordeuse des graines de l’épinette
+Petite arpenteuse des cônes de l’épinette","42,5
+1
+2,6","42
+20
+5",,
+"Fontbrune
+EPB-V1-FON-2",64,"Mouche granivore de l’épinette
+Tordeuse des graines de l’épinette
+Petite arpenteuse des cônes de l’épinette","29
+9,7
+12,9","25
+25
+17",,
+Villeneuve,72,"Rouille
+Mouche granivore de l’épinette","7,3
+62",625,,
+EPB-V1-VIL-1,,Tordeuse des graines de l’épinette,15,",
+43,3",,
+,,Petite arpenteuse des cônes de l’épinette,12,8,,
+Baby,81,Mouche granivore de l’épinette,"39,7",34,,
+EPB-V1-BAB-1,,Rouille,8,,,
+Desrobert,83,Mouche granivore de l’épinette,75,53,,
+EPB-V1-DRO-1,,Rouille,28,,,
+"Labrosse
+EPB-V1-LAB-1",91,"Mouche granivore de l’épinette
+Tordeuse des graines de l’épinette
+Petite arpenteuse des cônes de l’épinette
+Rouille","99
+47",72,"87
+2
+38","49,7
+25
+27,2"

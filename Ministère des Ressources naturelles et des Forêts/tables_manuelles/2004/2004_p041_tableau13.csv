@@ -1,0 +1,71 @@
+# Tableau 13. Présence de deux espèces de rouille Melampsora au Québec en 2004
+# Source: Insectes, maladies et feux dans les forêts québécoises en 2004, page 41 (image du tableau transcrite manuellement)
+# PEH = peuplier hybride; PED = Populus deltoides; J = Populus X jackii; MMD = Melampsora medusae f. sp. deltoidae; MLP = Melampsora larici-populina; ND = non disponible
+Secteur infecté,Type de production,Hôte,No de clone,Hybride,Rouille
+Abitibi-Témiscamingue,Pépinière forestière,PEH,1079,J,MMD
+Abitibi-Témiscamingue,Pépinière forestière,PEH,1081,J,MMD
+Abitibi-Témiscamingue,Pépinière forestière,PEH,1083,J,MMD
+Abitibi-Témiscamingue,Pépinière forestière,PEH,3374,M x B,MMD
+Abitibi-Témiscamingue,Pépinière forestière,PEH,3375,M x B,MMD
+Abitibi-Témiscamingue,Pépinière forestière,PEH,3389,J,MMD
+Abitibi-Témiscamingue,Pépinière forestière,PEH,747210,B x T,MMD
+Abitibi-Témiscamingue,Pépinière forestière,PEH,747215,B x T,MMD
+Abitibi-Témiscamingue,Pépinière forestière,PEH,915004,M x B,MMD
+Bas-Saint-Laurent,Pépinière forestière,PEH,3375,M x B,MMD
+Bas-Saint-Laurent,Pépinière forestière,PEH,505249,M x DT,MMD
+Bas-Saint-Laurent,Pépinière forestière,PEH,505326,M x DT,MLP
+Bas-Saint-Laurent,Pépinière forestière,PEH,505327,M x DT,MLP
+Bas-Saint-Laurent,Pépinière forestière,PEH,505468,M x DT,MMD
+Bas-Saint-Laurent,Pépinière forestière,PEH,505508,M x DT,MLP et MMD
+Bas-Saint-Laurent,Pépinière forestière,PEH,750301,M x DT,MLP et MMD
+Bas-Saint-Laurent,Pépinière forestière,PEH,750306,M x DT,MMD
+Bas-Saint-Laurent,Pépinière forestière,PEH,750316,M x DT,MLP et MMD
+Bas-Saint-Laurent,Pépinière forestière,PEH,915003,M x B,MMD
+Bas-Saint-Laurent,Pépinière forestière,PEH,915004,M x B,MMD
+Bas-Saint-Laurent,Pépinière forestière,PEH,915308,M x B,MMD
+Bas-Saint-Laurent,Pépinière forestière,PEH,915311,M x B,MLP et MMD
+Bas-Saint-Laurent,Pépinière forestière,PEH,915319,M x B,MLP et MMD
+Bas-Saint-Laurent,Pépinière forestière,PEH,915320,M x B,MLP et MMD
+Capitale-Nationale,Pépinière forestière,PEH,ND (familles 23511-23493),,MLP
+Chaudière-Appalaches,Arboretum,PEH,3333,D x N,MLP et MMD
+Chaudière-Appalaches,Arboretum,PEH,3342,D x N,MLP et MMD
+Chaudière-Appalaches,Arboretum,PEH,3675,TD x T,MMD
+Chaudière-Appalaches,Arboretum,PEH,4723,D x N,MMD
+Chaudière-Appalaches,Arboretum,PEH,915313,M x B,MLP
+Estrie,Plantation,PEH,3225,T x D,MMD
+Lanaudière,Pépinière forestière,PEH,131,D x N,MMD
+Lanaudière,Pépinière forestière,PEH,3225,T x D,MMD
+Lanaudière,Pépinière forestière,PEH,3230,T x D,MMD
+Lanaudière,Pépinière forestière,PEH,3308,D x N,MMD
+Lanaudière,Pépinière forestière,PEH,3333,D x N,MMD
+Lanaudière,Pépinière forestière,PEH,3565,D x N,MMD
+Lanaudière,Pépinière forestière,PEH,3567,D x N,MMD
+Lanaudière,Pépinière forestière,PEH,3570,D x N,MMD
+Lanaudière,Pépinière forestière,PEH,3585,D x N,MMD
+Lanaudière,Pépinière forestière,PEH,3586,D x N,MMD
+Lanaudière,Pépinière forestière,PEH,3587,D x N,MMD
+Lanaudière,Pépinière forestière,PEH,3729,N x M,MLP
+Lanaudière,Pépinière forestière,PEH,4813,D x N,MMD
+Lanaudière,Pépinière forestière,PEH,915302,M x B,MLP
+Lanaudière,Pépinière forestière,PEH,915303,M x B,MLP et MMD
+Lanaudière,Pépinière forestière,PEH,915311,M x B,MLP
+Lanaudière,Pépinière forestière,PEH,915313,M x B,MLP
+Lanaudière,Pépinière forestière,PEH,915508,DN x M,MMD
+Lanaudière,Plantation forestière,PEH,ND,,MLP
+Outaouais,Plantation forestière,PEH,ND,,MLP
+Mauricie,Pépinière forestière,PEH,3308,D x N,MMD
+Mauricie,Pépinière forestière,PEH,3333,D x N,MMD
+Mauricie,Pépinière forestière,PEH,3570,D x N,MMD
+Mauricie,Pépinière forestière,PEH,505326,M x DT,MLP
+Mauricie,Pépinière forestière,PEH,505508,M x DT,MLP
+Mauricie,Pépinière forestière,PEH,747210,B x T,MLP
+Mauricie,Pépinière forestière,PEH,915004,M x B,MMD
+Mauricie,Pépinière forestière,PEH,915311,M x B,MLP
+Mauricie,Pépinière forestière,PEH,915313,M x B,MLP
+Mauricie,Pépinière forestière,PEH,915318,M x B,MLP
+Mauricie,Forêt naturelle,PED,,,MMD
+Saguenay–Lac-Saint-Jean,Pépinière forestière,PEH,3374,M x B,MMD
+Saguenay–Lac-Saint-Jean,Pépinière forestière,PEH,3375,M x B,MMD
+Saguenay–Lac-Saint-Jean,Pépinière forestière,PEH,747210,B x T,MLP et MMD
+Saguenay–Lac-Saint-Jean,Pépinière forestière,PEH,915004,M x B,MMD
+Saguenay–Lac-Saint-Jean,Pépinière forestière,PEH,915313,M x B,MMD

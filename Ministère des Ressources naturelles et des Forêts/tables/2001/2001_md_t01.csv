@@ -1,0 +1,52 @@
+"# Tableau 1 – Superficies (ha) affectées par la tordeuse des bourgeons de l’épinette au Québec, en 2001"
+"# Source: Insectes, maladies et feux dans les forêts du Québec 2001 (Insectes_maladies_feux_2001.md, line 118)"
+Régions,Unités,N,iveaux de défoliatio,n,
+administratives,de gestion,Léger,Modéré,Grave,Total
+"Saguenay–
+Lac-Saint-Jean",21,"59
+(40)^1","26
+(67)","228
+(136)","313
+(243)"
+Centre-du-Québec,41,"32
+(0)","67
+(0)","7
+(0)","106
+(0)"
+Mauricie,41,"0
+(0)","31
+(0)","497
+(263)","528
+(263)"
+Estrie,51,"0
+(0)","0
+(27)","19
+(0)","19
+(27)"
+Laurentides,64,"0
+(0)","8
+(17)","45
+(0)","53
+(17)"
+Outaouais,71,"160
+(530)","1 071
+(206)","3 845
+(1 324)","5 076
+(2 060)"
+,72,"295
+(1 656)","1 073
+(1 243)","8 694
+(4 374)","10 062
+(7 273)"
+,73,"131
+(455)","215
+(268)","2 399
+(114)","2 745
+(837)"
+,Total,"586
+(2 641)","2 359
+(1 717)","14 938
+(5 812)","17 883
+(10 170)"
+Total provincial,,677,2 491,15 734,18 902
+,,(2 681),(1 828),(6 211),(10 720)

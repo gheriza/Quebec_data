@@ -1,0 +1,10 @@
+# Tableau 1. Nombre de plantations visitées selon les essences dans chaque domaine bioclimatique en 2021
+"# Source: Insectes, maladies et feux dans les forêts du Québec 2021 (RA_2021_DPF.md, line 180)"
+"Domaine
+bioclimatique",,É,pinette,,,Pin,,,"Esse
+Mélèze",nces,Érable,Noyer,Peuplier,Frêne de,Frêne,Thuya,Total
+,blanche,noire,de Norvège,rouge,blanc,gris,rouge,hybride,japonais,laricin,à sucre,noir,hybride,Pensylvanie,d'Amérique,occidental,
+Érablière,25,11,2,5,22,6,36,0,1,5,1,2,1,0,1,0,118
+Sapinière,70,47,10,1,16,35,8,2,1,5,1,0,1,3,0,1,201
+Pessière,3,6,0,0,0,4,0,0,0,1,0,0,0,0,0,0,14
+Total,98,64,12,6,38,45,44,2,2,11,2,2,2,3,1,1,333

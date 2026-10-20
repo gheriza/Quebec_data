@@ -1,0 +1,40 @@
+# Tableau 12 - Nombre de pépinières affectées et quantité de lots endommagés par des agents abiotiques en 2008
+"# Source: Insectes, maladies et feux dans les forêts du Québec 2008 (Insectes_maladies_feux_2008.md, line 1177)"
+Causes de dégâts,01,02,03,04,"Régi
+07","ons ad
+08","ministra
+09","tives
+11",12,14,15,17,Total
+Dessiccation hivernale,,,,,,,,,,,,,
+Nombre de pépinières,1,1,0,1,0,0,0,2,0,1,1,0,7
+Nombre de lots,17,2,0,1,0,0,0,3,0,1,3,0,27
+Dessiccation hivernale +,,,,,,,,,,,,,
+(gelure hivernale ou,,,,,,,,,,,,,
+gelure automnale),,,,,,,,,,,,,
+Nombre de pépinières,1,0,0,0,1,0,0,1,0,0,1,1,5
+Nombre de lots,1,0,0,0,1,0,0,1,0,0,5,1,9
+Gelure automnale,,,,,,,,,,,,,
+Nombre de pépinières,2,1,0,1,1,1,0,0,0,1,0,0,7
+Nombre de lots,3,1,0,1,1,8,0,0,0,1,0,0,15
+Gelure hivernale,,,,,,,,,,,,,
+Nombre de pépinières,1,2,0,1,0,1,0,0,0,1,1,0,7
+Nombre de lots,1,2,0,3,0,5,0,0,0,2,1,0,14
+Gel des racines,,,,,,,,,,,,,
+Nombre de pépinières,2,3,1,0,0,3,1,1,0,0,0,0,11
+Nombre de lots,2,9,1,0,0,19,3,2,0,0,0,0,36
+Gel des racines + (gelure,,,,,,,,,,,,,
+hivernale ou gelure,,,,,,,,,,,,,
+automnale ou dessiccation,,,,,,,,,,,,,
+hivernale),,,,,,,,,,,,,
+Nombre de pépinières,0,1,0,0,1,2,0,0,0,0,1,0,5
+Nombre de lots,0,2,0,0,1,7,0,0,0,0,2,0,12
+Gelure printanière,,,,,,,,,,,,,
+Nombre de pépinières,3,3,0,1,1,3,1,2,1,0,0,0,15
+Nombre de lots,5,10,0,4,4,34,9,3,1,0,0,0,70
+Bris de glace,,,,,,,,,,,,,
+Nombre de pépinières,1,2,0,1,1,2,1,1,1,0,1,0,11
+Nombre de lots,1,3,0,2,1,6,3,2,1,0,5,0,24
+Bris de neige,,,,,,,,,,,,,
+Nombre de pépinières,4,1,2,2,1,0,1,2,1,1,2,1,18
+Nombre de lots,46,2,20,24,5,0,4,12,8,21,13,10,165
+Nombre de pépinières visitées,5,4,3,2,1,3,1,2,1,1,2,1,26

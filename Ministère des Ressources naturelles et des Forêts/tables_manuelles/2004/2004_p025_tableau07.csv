@@ -1,0 +1,19 @@
+# Tableau 7. Pourcentage des plantations d'épinettes infectées par la carie des racines en 2004
+# Source: Insectes, maladies et feux dans les forêts québécoises en 2004, page 25 (image du tableau transcrite manuellement; nombres de plantations visitées identiques au tableau 4)
+No région,Région administrative,Plantations infectées en 2004 (%),Plantations visitées (nb)
+01,Bas-Saint-Laurent,3,64
+02,Saguenay–Lac-Saint-Jean,37,67
+03,Capitale-Nationale,4,26
+04,Mauricie,15,34
+05,Estrie,0,24
+07,Outaouais,13,16
+08,Abitibi-Témiscamingue,9,43
+09,Côte-Nord,18,33
+10,Nord-du-Québec,24,21
+11,Gaspésie–Îles-de-la-Madeleine,17,47
+12,Chaudière-Appalaches,17,42
+14,Lanaudière,0,12
+15,Laurentides,0,14
+16,Montérégie,0,11
+17,Centre-du-Québec,0,8
+,Total,15,462

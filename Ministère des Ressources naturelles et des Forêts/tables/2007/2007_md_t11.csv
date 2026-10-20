@@ -1,0 +1,11 @@
+# Tableau 9. Pourcentage des plantations de pins gris infectées par la rouille-tumeur autonome en 2007
+"# Source: Insectes, maladies et feux dans les forêts du Québec 2007 (Insectes_maladies_feux_2007.md, line 853)"
+Zones,,Niveau,x des domma,ges(%),,Nombre de,Nombre de,Pourcentage
+d’échantillonnage,Présence^1,Trace,Léger,Modéré,Grave,"plantations
+infectées","plantations
+visitées","des plantations
+infectées"
+Érablière,67,,,,33,3,7,43
+Sapinière,25,54,21,,,24,44,55
+Pessière,33,54,8,5,,24,38,63
+TOTAL,31,51,14,2,2,51,89,57

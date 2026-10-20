@@ -1,0 +1,12 @@
+# Tableau 22 - Nombre d’insectes de la famille des Siricidés capturés dans les pièges Lindgren et intercepteur depuis 2006
+"# Source: Insectes, maladies et feux dans les forêts du Québec 2008 (Insectes_maladies_feux_2008.md, line 1810)"
+Année,Type de piège,Nombre de pièges,Nombre d,e capture,s dans les,plantations é,chantillonnées,Total des captures
+,,,Pin blanc,Pin dur,Pingris,Pin rouge,Pin sylvestre,
+2006,Lindgren,155,7,,19,109,59,194
+,intercepteur,155,5,,20,171,110,306
+,Total,310,12(9)^1,,39(10),280(76),169(60),500(155)
+2007,Lindgren,155,7,,17,95,81,200
+,intercepteur,155,10,,22,163,106,301
+,Total,310,17(9),,39 (10),258 (76),187 (60),501 (155)
+2008,Lindgren,310,,1,15,118,188(1)^2,323
+,Total,310,,1(1),15 (11),118 (54),189 (90),323 (156)

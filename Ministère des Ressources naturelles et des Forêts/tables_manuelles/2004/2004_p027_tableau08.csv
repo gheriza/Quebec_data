@@ -1,0 +1,34 @@
+# Tableau 8. Principaux organismes et agents abiotiques retrouvés dans les plantations de peupliers hybrides en 2004
+# Source: Insectes, maladies et feux dans les forêts québécoises en 2004, page 27 (image du tableau transcrite manuellement)
+# 1 = présence observée (x dans le rapport). Régions : 01 (la légende du rapport indique « Gaspésie—Îles-de-la-Madeleine », mais le code 01 désigne le Bas-Saint-Laurent ailleurs dans le rapport), 02 Saguenay–Lac-Saint-Jean, 04 Mauricie, 05 Estrie, 07 Outaouais, 14 Lanaudière
+Catégorie,Ravageur,Région 01,Région 02,Région 04,Région 05,Région 07,Région 14
+Insectes,"Agrile des gourmands des peupliers, Agrilus horni",,1,,,1,
+Insectes,Agrilus sp.,,,,,1,
+Insectes,"Charançon du saule, Cryptorhynchus lapathi",,,,1,,
+Insectes,"Chenille à bosse rouge, Schizura concinna",,,,,1,
+Insectes,Chrysomelidae,,,,,1,
+Insectes,Crepidodera sp.,,,1,,,
+Insectes,Isochnus sp.,1,1,1,1,1,1
+Insectes,"Céphe du saule, Janus abbreviatus",,,,,1,
+Insectes,"Mineuse du peuplier deltoïde, Paraleucoptera albella",,1,,,,
+Insectes,"Mineuse serpentine du tremble, Phyllocnistis populiella",1,,1,,1,
+Insectes,"Punaise terne, Lygus lineolaris",1,1,1,1,1,
+Insectes,"Saperde noire du peuplier, Saperda populnea moesta",1,,,1,1,
+Maladies,"Pourridié-agaric, Armillaria ostoyae",,,,1,,
+Maladies,"Brûlure des feuilles, Linospora tetraspora",1,,,1,,
+Maladies,"Brûlure des pousses, Pollaccia elegans",,1,,,,
+Maladies,"Brûlure des pousses, Pollaccia radiosa",1,,,,,
+Maladies,"Chancre hypoxylonien, Entoleuca mammata",,1,,1,,
+Maladies,Cylindrocarpon spp.,,,,,1,
+Maladies,"Chancre cytosporéen, Cytospora spp.",1,1,,1,1,
+Maladies,"Chancre fusarien, Fusarium spp.",,,,,1,
+Maladies,"Blanc des feuilles, Oidium spp.",,,,1,,
+Maladies,"Rouille des feuilles, Melampsora medusae f. sp. deltoidae",1,1,1,1,1,1
+Maladies,"Rouille des feuilles, Melampsora larici-populina",,,,,1,1
+Maladies,"Tache des feuilles, Septoria populicola",1,1,1,,,
+Maladies,"Tache septorienne (tache et chancre), Septoria musiva",,,,1,1,1
+Maladies,"Tache septotinienne, Septotinia populiperda",1,1,,1,1,
+Agents abiotiques,Blessure mécanique,1,1,1,1,1,
+Agents abiotiques,Bris de glace,,,,1,,
+Agents abiotiques,Gelure printanière,,,,,1,
+Agents abiotiques,Insolation,,,1,,,

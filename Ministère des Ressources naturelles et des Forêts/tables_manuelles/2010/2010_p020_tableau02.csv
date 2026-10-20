@@ -1,0 +1,8 @@
+# Tableau 2. Nombre de plantations visitées selon les essences dans chaque domaine bioclimatique en 2010
+# Source: Insectes, maladies et feux dans les forêts québécoises 2010, page 20 du PDF (image du tableau transcrite manuellement; totaux des lignes et des colonnes vérifiés)
+# Attention : dans le rapport, le total de la ligne « Sapinière » est 187 alors que la somme des essences donne 192; valeur publiée conservée.
+Domaine bioclimatique,Épinette blanche,Épinette noire,Épinette de Norvège,Épinette rouge,Pin blanc,Pin gris,Pin rouge,Pin sylvestre,Mélèze hybride,Mélèze laricin,Mélèze européen,Peuplier hybride,Érable à sucre,Chêne rouge,Frêne d'Amérique,Total
+Érablière,33,12,10,8,20,5,34,3,3,11,3,15,1,2,1,161
+Sapinière,30,45,7,3,14,51,4,0,5,11,5,15,1,1,0,187
+Pessière,7,34,0,0,0,29,0,0,0,0,0,1,0,0,0,71
+Total,70,91,17,11,34,85,38,3,8,22,8,31,2,3,1,419

@@ -1,0 +1,101 @@
+# Tableau 15. Pourcentage de cônes et de graines endommagés selon les sources de semences améliorées en 2003
+"# Source: Insectes, maladies et feux dans les forêts du Québec 2003 (Insectes_maladies_feux_2003.md, line 1112)"
+Sources de semences,Unités de,"Mouche g
+l'épi","ranivore de
+nette","Tordeuse de
+l'épi","s graines de
+nette","Pyrale de
+sa","s cônes du
+pin","Petite arp
+cô","enteuse des
+nes",Rouille
+,gestion,"% de cônes
+affectés","% moyen de
+graines
+affectées","% de cônes
+affectés","% moyen de
+graines
+affectées","% de cônes
+affectés","% moyen de
+graines
+affectées","% de cônes
+affectés","% moyen de
+graines
+affectées","% de cônes
+affectés"
+"Robidoux
+EPB-V1-ROB-1
+Secteur 1",111,36,40,1,5,3,8,,,45
+Secteur 2,,28,15,,,,,,,74
+Romieu,112,,,,,,,,,
+EPB-V1-ROM-1,,2,2,,,2,1,,,12
+"Estcourt
+EPB-V1-EST-1",11,,,,,,,,,
+Secteur 1,,14,37,8,3,,,3,8,25
+"Secteur 2
+Secteur 3",,23,27,"1
+3","2
+2",2,5,,,"26
+36"
+"Secteur 4
+Secteur 5",,"27
+25","36
+40","4
+1","4
+60",,,1,10,"42
+36"
+Secteur 6,,16,44,2,4,1,2,,,37
+"Pépinière de Sainte-Luce
+EPB-V2-PLU-1",12,9,37,,,15,14,,,22
+"Falardeau
+EPB-V1-FAL-1",21,,,,,,,,,3
+"Station forestière de Duchesnay
+EPB-V1-SFD-1
+Secteur 1",31,,,1,2,,,,,86
+Secteur 2,,,,,,,,3,7,54
+"Lac des Marais
+EPB-V1-LDM-1",33,,,,,,,,,
+"Secteur 1
+Secteur 2",,1,100,2,5,,,,,"46
+55"
+Aubin-De L'Isle,34,,,,,,,,,
+EPB-V1-AUB-1,,,,,,,,,,15
+Aubin-De L'Isle,34,,,,,,,,,
+EPB-V1-AUB-2,,35,38,1,5,2,5,,,54
+"Aubin-De L'Isle
+EPB-V1-AUB-3",34,1,50,,,,,,,32
+Wendover,41,,,,,,,,,
+EPB-V1-WEV-1,,4,45,3,28,,,,,12
+"Wendover
+EPB-V1-WEV-2",41,1,5,,,,,,,13
+"Cleveland
+EPB-V1-CLE-1",51,4,14,1,60,,,,,4
+"Verchères
+EPB-V1-AVE-1
+Secteur 1",63,5,57,,,2,5,,,5
+Secteur 2,,4,31,1,5,,,,,
+"Fontbrune
+EPB-V1-FON-1",64,1,80,5,29,3,7,2,20,41
+Fontbrune,64,,,,,,,,,
+EPB-V1-FON-2,,,,,,6,14,1,2,86
+"Arboretum Coulonge
+EPB-R1-ACO-1
+Secteur 1",71,11,44,19,10,1,2,2,5,1
+Secteur 2,,2,8,9,13,5,28,1,5,7
+"Villeneuve
+EPB-V1-VIL-1",72,6,55,11,16,25,5,,,
+Baby,81,,,,,,,,,
+"EPB-V1-BAB-1
+Secteur 1",,6,5,,,,,,,19
+Secteur 2,,2,55,3,15,,,,,9
+Desroberts,83,,,,,,,,,
+EPB-V1-DRO-1,,6,27,7,3,1,90,,,10
+Labrosse,91,,,,,,,,,
+EPB-V1-LAB-1,,,,,,,,,,
+Secteur 1,,35,45,2,10,,,4,3,28
+Secteur 2,,4,21,,,1,5,1,5,50
+"Secteur 3
+Secteur 4",,"20
+35","37
+45",2,23,,,3,5,"70
+45"
